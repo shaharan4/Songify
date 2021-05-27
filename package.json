@@ -1,0 +1,66 @@
+{
+  "name": "songify",
+  "version": "0.1.0",
+  "engines": {
+    "node": "12.x"
+  },
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/styles": "^4.11.2",
+    "@testing-library/jest-dom": "^5.11.4",
+    "@testing-library/react": "^11.1.0",
+    "@testing-library/user-event": "^12.1.10",
+    "axios": "^0.21.0",
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.3",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "http-proxy-middleware": "^1.0.6",
+    "jquery": "^3.5.1",
+    "mongodb": "^3.6.3",
+    "mongodb-client-encryption": "^1.1.0",
+    "mongoose": "^5.11.8",
+    "npm-run-all": "^4.1.5",
+    "react": "^17.0.1",
+    "react-bootstrap": "^1.4.0",
+    "react-dom": "^17.0.1",
+    "react-drag-drawer": "^3.3.4",
+    "react-motion": "^0.5.2",
+    "react-native": "^0.63.3",
+    "react-native-web": "^0.14.7",
+    "react-router": "^5.2.0",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.0",
+    "serve": "^11.3.2",
+    "uuid": "^8.3.1",
+    "uuidv4": "^6.2.5",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "serve -s build",
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

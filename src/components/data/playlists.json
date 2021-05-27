@@ -1,0 +1,1721 @@
+{
+  "playlists" : {
+    "href" : "https://api.spotify.com/v1/search?query=a&type=playlist&offset=5&limit=50",
+    "items" : [ {
+      "collaborative" : false,
+      "description" : "Boy bands, girl groups, britpop, grunge & a golden era for hip hop.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXbTxeAdrVG2l"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbTxeAdrVG2l",
+      "id" : "37i9dQZF1DXbTxeAdrVG2l",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003f9494ee401e66837e9d7ed3b",
+        "width" : null
+      } ],
+      "name" : "All Out 90s",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXbTxeAdrVG2l/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXbTxeAdrVG2l",
+      "views": 0
+    },
+     {
+      "collaborative" : false,
+      "description" : "EDM became mainstream and hip-hop started to rule the world - this is the 2010s.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX5Ejj0EkURtP"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ejj0EkURtP",
+      "id" : "37i9dQZF1DX5Ejj0EkURtP",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003572322e9d2a71a8178dc8282",
+        "width" : null
+      } ],
+      "name" : "All Out 10s",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Ejj0EkURtP/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX5Ejj0EkURtP",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "All the vibes. All the feels.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX7gIoKXt0gmx"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7gIoKXt0gmx",
+      "id" : "37i9dQZF1DX7gIoKXt0gmx",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000313601d4833623a4d6b328e38",
+        "width" : null
+      } ],
+      "name" : "All The Feels",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMzMwODQ5NiwwMDAwMDA1MDAwMDAwMTc1NGNhMjI2ODYwMDAwMDE2ZDE1NDI2MjNi",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7gIoKXt0gmx/tracks",
+        "total" : 85
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX7gIoKXt0gmx",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "The essential tracks from a decade of revolutions.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXaKIA8E7WcJj"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXaKIA8E7WcJj",
+      "id" : "37i9dQZF1DXaKIA8E7WcJj",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003aa98e067bcdea8cb0ce147de",
+        "width" : null
+      } ],
+      "name" : "All Out 60s",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXaKIA8E7WcJj/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXaKIA8E7WcJj",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "The best new tracks every week. Cover: Bakar",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXdbXrPNafg9d"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdbXrPNafg9d",
+      "id" : "37i9dQZF1DXdbXrPNafg9d",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000038f2fd5f6ce76c367422fe504",
+        "width" : null
+      } ],
+      "name" : "All New Indie",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDA3Mjk3MCwwMDAwMDIwNjAwMDAwMTc1N2EzMzFhNTMwMDAwMDE3NTc1Y2MzYmFj",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXdbXrPNafg9d/tracks",
+        "total" : 104
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXdbXrPNafg9d",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Songs for the season.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWUNIrSzKgQbP"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUNIrSzKgQbP",
+      "id" : "37i9dQZF1DWUNIrSzKgQbP",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000039c3a0c594d98f9e35fdc788e",
+        "width" : null
+      } ],
+      "name" : "Autumn Acoustic",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDAzMDUyMCwwMDAwMDA2NTAwMDAwMTc1NzdhYjVjMjAwMDAwMDE2ZTgzNDVjODFl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUNIrSzKgQbP/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWUNIrSzKgQbP",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "A chill mix of new favorites and classic versions. Cover:  <a href=\"https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D?si=5WrNFERNQWugKqvKSO4yRQ\">Irish Women in Harmony</a>",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWXmlLSKkfdAk"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWXmlLSKkfdAk",
+      "id" : "37i9dQZF1DWXmlLSKkfdAk",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003f6d3028b0bf0bd439d8a3845",
+        "width" : null
+      } ],
+      "name" : "Acoustic Covers",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDAzMDUyMCwwMDAwMDA3ODAwMDAwMTc1NzdhYjViN2EwMDAwMDE3MmM5ODdlNTRi",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWXmlLSKkfdAk/tracks",
+        "total" : 152
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWXmlLSKkfdAk",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Relax and unwind with chill, ambient music.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX3Ogo9pFvBkY"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX3Ogo9pFvBkY",
+      "id" : "37i9dQZF1DX3Ogo9pFvBkY",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003fbcb321e14b5b643f21bf3aa",
+        "width" : null
+      } ],
+      "name" : "Ambient Relaxation",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMzc5ODA1OCwwMDAwMDA0NzAwMDAwMTc1NjlkMDQ0YmQwMDAwMDE2ZDE1MGZmMDc4",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX3Ogo9pFvBkY/tracks",
+        "total" : 322
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX3Ogo9pFvBkY",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXe6bgV3TmZOL"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXe6bgV3TmZOL",
+      "id" : "37i9dQZF1DXe6bgV3TmZOL",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003929e39d3550da276515b31f2",
+        "width" : null
+      } ],
+      "name" : "Adrenaline Workout",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAyOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXe6bgV3TmZOL/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXe6bgV3TmZOL",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "The 50's were a time of changes and the birth of Rock ’n’ Roll.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWSV3Tk4GO2fq"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSV3Tk4GO2fq",
+      "id" : "37i9dQZF1DWSV3Tk4GO2fq",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000036751ab1eafcfb1ce8bba8733",
+        "width" : null
+      } ],
+      "name" : "All Out 50s",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWSV3Tk4GO2fq/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWSV3Tk4GO2fq",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "A mix of folksy hits, soulful acoustic, and beloved singer-songwriter gems.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4VvfRBFClxm"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4VvfRBFClxm",
+      "id" : "37i9dQZF1DX4VvfRBFClxm",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000035ec18f4cc2ba9e3c5e287cd9",
+        "width" : null
+      } ],
+      "name" : "Acoustic Hits",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA0NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4VvfRBFClxm/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX4VvfRBFClxm",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "featuring Jean Dawson",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWWqNV5cS50j6"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWqNV5cS50j6",
+      "id" : "37i9dQZF1DWWqNV5cS50j6",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000033d17cb3fdf11b535ba5bf5d4",
+        "width" : null
+      } ],
+      "name" : "Anti Pop",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDA4MTc1OSwwMDAwMDE2ODAwMDAwMTc1N2FiOTM1N2QwMDAwMDE3NTUwYjEwNDgy",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWqNV5cS50j6/tracks",
+        "total" : 120
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWWqNV5cS50j6",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "When everything is lonely, I can be my best friend.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWX83CujKHHOn"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWX83CujKHHOn",
+      "id" : "37i9dQZF1DWX83CujKHHOn",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000365af49474d91827160b56b27",
+        "width" : null
+      } ],
+      "name" : "Alone Again",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAzMSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWX83CujKHHOn/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWX83CujKHHOn",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Stay focused with electronic and trap beats.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX692WcMwL2yW"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX692WcMwL2yW",
+      "id" : "37i9dQZF1DX692WcMwL2yW",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000358db4ac7cd52e1a5b2c9d84b",
+        "width" : null
+      } ],
+      "name" : "All-Nighter",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMzc5ODc4MCwwMDAwMDAxMDAwMDAwMTc1NjlkYjQ4YWIwMDAwMDE3MGFmNDBhM2M0",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX692WcMwL2yW/tracks",
+        "total" : 84
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX692WcMwL2yW",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "The biggest Christmas songs of all time.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX0Yxoavh5qJV"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0Yxoavh5qJV",
+      "id" : "37i9dQZF1DX0Yxoavh5qJV",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003f04cbd323e0edd1b19ef58bb",
+        "width" : null
+      } ],
+      "name" : "Christmas Hits",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA3MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX0Yxoavh5qJV/tracks",
+        "total" : 94
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX0Yxoavh5qJV",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Instant classics from yesteryear to now in one sweet mix.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWUH2AzNQzWua"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUH2AzNQzWua",
+      "id" : "37i9dQZF1DWUH2AzNQzWua",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003b77b201d9d5b9e1db7f63066",
+        "width" : null
+      } ],
+      "name" : "Acoustic Hits: Oldies but Goodies",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA0NSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUH2AzNQzWua/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWUH2AzNQzWua",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Keep calm with this mix of laidback, acoustic tracks.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWYGZAMYFDM8S"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYGZAMYFDM8S",
+      "id" : "37i9dQZF1DWYGZAMYFDM8S",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000036e241a4f0065f41f4e8a39d7",
+        "width" : null
+      } ],
+      "name" : "Acoustic Chill",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAzNCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWYGZAMYFDM8S/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWYGZAMYFDM8S",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/1ZvtJbZY1LPTPSZAhb1SJ4"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/1ZvtJbZY1LPTPSZAhb1SJ4",
+      "id" : "1ZvtJbZY1LPTPSZAhb1SJ4",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebb4d5b3fbd576a2254f137f5e1",
+        "width" : null
+      } ],
+      "name" : "Ariana Grande: Best Of",
+      "owner" : {
+        "display_name" : "arianagrandeofficial",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/arianagrandeofficial"
+        },
+        "href" : "https://api.spotify.com/v1/users/arianagrandeofficial",
+        "id" : "arianagrandeofficial",
+        "type" : "user",
+        "uri" : "spotify:user:arianagrandeofficial"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "ODQsZTdiZGJjNDRkYTIyZWY2ZWE0YWEzMzk4MzdiODYwMmMzNjE5ODkwNQ==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/1ZvtJbZY1LPTPSZAhb1SJ4/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:1ZvtJbZY1LPTPSZAhb1SJ4",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Hits e clássicos para jogar sua energia lá em cima!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWUIDYTCle9M9"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUIDYTCle9M9",
+      "id" : "37i9dQZF1DWUIDYTCle9M9",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003022dd43c1d92dff8b301db2b",
+        "width" : null
+      } ],
+      "name" : "Alto Astral",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAyNywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUIDYTCle9M9/tracks",
+        "total" : 60
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWUIDYTCle9M9",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "¡Tu dosis de energía para venirte arriba!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX9Dh2wgiAwVX"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9Dh2wgiAwVX",
+      "id" : "37i9dQZF1DX9Dh2wgiAwVX",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000346038a402592bf87174a8442",
+        "width" : null
+      } ],
+      "name" : "Hits Alegres",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAxNSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX9Dh2wgiAwVX/tracks",
+        "total" : 60
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX9Dh2wgiAwVX",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "These songs rocked the 00s. Cover: Linkin Park",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX3oM43CtKnRV"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX3oM43CtKnRV",
+      "id" : "37i9dQZF1DX3oM43CtKnRV",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000032cdb0982697cc0ae43b1b5b6",
+        "width" : null
+      } ],
+      "name" : "00s Rock Anthems",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA1MiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX3oM43CtKnRV/tracks",
+        "total" : 50
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX3oM43CtKnRV",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "sejam bem vindos a maior baixaria do Spotify &#x2F;&#x2F; @alvxaro",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/1qNvW0x1LvDI6GmNYPXM8u"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/1qNvW0x1LvDI6GmNYPXM8u",
+      "id" : "1qNvW0x1LvDI6GmNYPXM8u",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebb5ed07cf0cdb47275128f9992",
+        "width" : null
+      } ],
+      "name" : "ALVXARO",
+      "owner" : {
+        "display_name" : "alvxaros",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/alvxaros"
+        },
+        "href" : "https://api.spotify.com/v1/users/alvxaros",
+        "id" : "alvxaros",
+        "type" : "user",
+        "uri" : "spotify:user:alvxaros"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTQwNiwyZDI4MmViNzUxNjAxOTM2NDliYWI4NmY3OGI5NDIyYzJmZGMyMDg3",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/1qNvW0x1LvDI6GmNYPXM8u/tracks",
+        "total" : 191
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:1qNvW0x1LvDI6GmNYPXM8u",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "These songs rocked the 80s. Cover: AC/DC.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX1spT6G94GFC"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1spT6G94GFC",
+      "id" : "37i9dQZF1DX1spT6G94GFC",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000038672e2b37d4a0376222a53f6",
+        "width" : null
+      } ],
+      "name" : "80s Rock Anthems",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAxOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX1spT6G94GFC/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX1spT6G94GFC",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Feel great with these timelessly fun songs!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX7KNKjOK0o75"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75",
+      "id" : "37i9dQZF1DX7KNKjOK0o75",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003e649da22aa371c86c801603f",
+        "width" : null
+      } ],
+      "name" : "Have a Great Day!",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA0MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX7KNKjOK0o75/tracks",
+        "total" : 102
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX7KNKjOK0o75",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "<a href=\"spotify:playlist:5nS26oBxDMgq8V64lS4KzV\">Chillout Covers 2020🎸👈 Listen🎸🎷🎺</a>",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/6OTUDw75heLYKKxb3XHdZx"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/6OTUDw75heLYKKxb3XHdZx",
+      "id" : "6OTUDw75heLYKKxb3XHdZx",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebbff15a2b1ac2498dfc4ad09ed",
+        "width" : null
+      } ],
+      "name" : "Covers 2020🎸Acoustic Covers☕Acustic🎹Accoustic☕Pop Acústicos☕Akustik🍹Acoustic Covers☕Pop Covers🍹",
+      "owner" : {
+        "display_name" : "KulturHits",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/oawq5t2haqvy6om0aykx1u5oh"
+        },
+        "href" : "https://api.spotify.com/v1/users/oawq5t2haqvy6om0aykx1u5oh",
+        "id" : "oawq5t2haqvy6om0aykx1u5oh",
+        "type" : "user",
+        "uri" : "spotify:user:oawq5t2haqvy6om0aykx1u5oh"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "NjY5LGFlYWYwYWNlNTc0OGY1OGRiYzA5NDVjNGRiMDcyZTRhNWZkYzVmYzA=",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/6OTUDw75heLYKKxb3XHdZx/tracks",
+        "total" : 119
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:6OTUDw75heLYKKxb3XHdZx",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "90s acoustics, mellow hits, and classic unplugged versions.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXb9LIXaj5WhL"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXb9LIXaj5WhL",
+      "id" : "37i9dQZF1DXb9LIXaj5WhL",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000033c06a52059251e4b7fc18498",
+        "width" : null
+      } ],
+      "name" : "90s Acoustic",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAxNCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXb9LIXaj5WhL/tracks",
+        "total" : 75
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXb9LIXaj5WhL",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Recorre los kilómetros con estos cantables clásicos para el camino.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX02pmAaEbu9H"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX02pmAaEbu9H",
+      "id" : "37i9dQZF1DX02pmAaEbu9H",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003500156c6fd0b073fa6cbb3b6",
+        "width" : null
+      } ],
+      "name" : "Viaje en Carretera",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAyNywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX02pmAaEbu9H/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX02pmAaEbu9H",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "These songs rocked the 70s. Cover: <a href=\"spotify:artist:1dfeR4HaWDbWqFHLkxsg1d\">Queen</a>",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWWwzidNQX6jx"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWwzidNQX6jx",
+      "id" : "37i9dQZF1DWWwzidNQX6jx",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003dc983c18c09291901b75e3ef",
+        "width" : null
+      } ],
+      "name" : "70s Rock Anthems",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjA0OCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWwzidNQX6jx/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWWwzidNQX6jx",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Le meilleur des années 80 en 80 titres.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWWl7MndYYxge"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWl7MndYYxge",
+      "id" : "37i9dQZF1DWWl7MndYYxge",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003586d947577fa9ccf5b8f97fb",
+        "width" : null
+      } ],
+      "name" : "Années 80",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMjYyNzYwMCwwMDAwMDA0YjAwMDAwMTc1MjQwYzdlYzkwMDAwMDE2Y2Y2OGM4MmI2",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWWl7MndYYxge/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWWl7MndYYxge",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Bruno &amp; Marrone",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/1nOglbtUephxw6jdh7QW9k"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/1nOglbtUephxw6jdh7QW9k",
+      "id" : "1nOglbtUephxw6jdh7QW9k",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebbeb81a975e0a0762ca75e5fd8",
+        "width" : null
+      } ],
+      "name" : "Bruno e Marrone - As Melhores (Novas e Antigas): Surto de Amor, Inevitável, Beijo na Varanda, Por Um Minuto, Dormi na Praça, Choram as Rosas, Ao Vivo, Acústico, Live, 2020",
+      "owner" : {
+        "display_name" : "gabriel_almeida_",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/gabrielsjbv"
+        },
+        "href" : "https://api.spotify.com/v1/users/gabrielsjbv",
+        "id" : "gabrielsjbv",
+        "type" : "user",
+        "uri" : "spotify:user:gabrielsjbv"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MzE3LDc1NmVmOWQzYjM3ZWQzOTFkMGJkOGIxNDZiZDZkMzU3NTQwZjg4YzA=",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/1nOglbtUephxw6jdh7QW9k/tracks",
+        "total" : 61
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:1nOglbtUephxw6jdh7QW9k",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Let your worries and cares slip away...",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWU0ScTcjJBdj"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWU0ScTcjJBdj",
+      "id" : "37i9dQZF1DWU0ScTcjJBdj",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000031932c7ea794e72d82b10692c",
+        "width" : null
+      } ],
+      "name" : "Relax & Unwind",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMTk1ODk5NywwMDAwMDA2ZDAwMDAwMTc0ZmMzMjZkOGIwMDAwMDE3MzQ5YzY0NGU3",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWU0ScTcjJBdj/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWU0ScTcjJBdj",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "The essential tracks from ARASHI, the most popular J-Pop group, all in one playlist. 嵐 20年の軌跡がここに。",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DXanFRoYWgBuI"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXanFRoYWgBuI",
+      "id" : "37i9dQZF1DXanFRoYWgBuI",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003b823992ab78b513bcf41fa88",
+        "width" : null
+      } ],
+      "name" : "This Is ARASHI",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDI2NDI2NCwwMDAwMDAxMTAwMDAwMTc1ODU5YTA0ZTMwMDAwMDE3NTczMWRmZTBl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DXanFRoYWgBuI/tracks",
+        "total" : 87
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DXanFRoYWgBuI",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "FORRO SABOREAR, BANDA LIBANOS, FORRO BALANCEAR, CALCINHA PRETA, MASTRUZ COM LEITE, GATINHA MANHOSA, CAVALEIROS DO FORRÓ, CAVIAR COM RAPADURA E MUITO MAIS",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/3ozZgTy0FhXckpBJbYtU6i"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/3ozZgTy0FhXckpBJbYtU6i",
+      "id" : "3ozZgTy0FhXckpBJbYtU6i",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebb27d4f6de26bb6d85318df12d",
+        "width" : null
+      } ],
+      "name" : "FORRÓ DAS ANTIGAS | AS MELHORES | FORRÓ ANTIGAS",
+      "owner" : {
+        "display_name" : "@dowglaax",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/santosribeiro007"
+        },
+        "href" : "https://api.spotify.com/v1/users/santosribeiro007",
+        "id" : "santosribeiro007",
+        "type" : "user",
+        "uri" : "spotify:user:santosribeiro007"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "NDMxLDg2YWQ5ZTQxMGQyNzk5ZThiNjUzZTM2YWEyMGMyMjIyNWI5YTBmMGI=",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/3ozZgTy0FhXckpBJbYtU6i/tracks",
+        "total" : 132
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:3ozZgTy0FhXckpBJbYtU6i",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "The essential Alan Walker tracks and remixes.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4npDJDFDYLg"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4npDJDFDYLg",
+      "id" : "37i9dQZF1DX4npDJDFDYLg",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000351f5801c7cfb289e9e6fe7b9",
+        "width" : null
+      } ],
+      "name" : "This Is Alan Walker",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU5NDQ3MzM0NywwMDAwMDA2NjAwMDAwMTczM2UwNDc4NGUwMDAwMDE3MjllMzE5NTg1",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4npDJDFDYLg/tracks",
+        "total" : 49
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX4npDJDFDYLg",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Cherish the day with these low-key favorites. Cover Artist: Lissie",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX4CgJVlGEIo5"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4CgJVlGEIo5",
+      "id" : "37i9dQZF1DX4CgJVlGEIo5",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000300854b7de93f38f0f3d50b25",
+        "width" : null
+      } ],
+      "name" : "Easy Acoustic",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAzMywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX4CgJVlGEIo5/tracks",
+        "total" : 82
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX4CgJVlGEIo5",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Lagu-lagu kesukaan pada beberapa tahun terakhir. Cover: Terry",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWW5b4WmmOtn7"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWW5b4WmmOtn7",
+      "id" : "37i9dQZF1DWW5b4WmmOtn7",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003a545279380c757520f5eecf1",
+        "width" : null
+      } ],
+      "name" : "Alunan Kesukaan",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMzMzNDM1MCwwMDAwMDAxYjAwMDAwMTc1NGUyY2E4NTcwMDAwMDE3NTRlMmM3NzUy",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWW5b4WmmOtn7/tracks",
+        "total" : 70
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWW5b4WmmOtn7",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/7z4wNvYJdL73uKwADJLBUS"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/7z4wNvYJdL73uKwADJLBUS",
+      "id" : "7z4wNvYJdL73uKwADJLBUS",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebb7b63f177e6bce2eded4092f6",
+        "width" : null
+      } ],
+      "name" : "ALL ACCESS: AHRI",
+      "owner" : {
+        "display_name" : "riotrecords",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/riotrecords"
+        },
+        "href" : "https://api.spotify.com/v1/users/riotrecords",
+        "id" : "riotrecords",
+        "type" : "user",
+        "uri" : "spotify:user:riotrecords"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "NixjOTc1YzQ3MTg3NjVhNDk3ZjUwMjY1YmJjN2VlNWYzZTliZWU3Mzk1",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/7z4wNvYJdL73uKwADJLBUS/tracks",
+        "total" : 18
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:7z4wNvYJdL73uKwADJLBUS",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Só as melhores de 2020, 2019 e Lançamentos - Funk Brasileiro: MC Andynho Ramos, Niack, Mc Du Black, MC Jacare, Rennan da Penha, MC Kevin o Chris, Livinho, MC Rebecca, Ludmilla, Lexa, MC Kevinho, MC JotaPê,  FP do Trem Bala, MC Dollynho da Lapa ig: @_edujavier -  tt: edujavier__ - ",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/1tcVKMRGQZPYOMEHbbAIWp"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/1tcVKMRGQZPYOMEHbbAIWp",
+      "id" : "1tcVKMRGQZPYOMEHbbAIWp",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebbc4aa03c113a2547c058d1dbc",
+        "width" : null
+      } ],
+      "name" : "FUNK 2020 - Atualizado 03/11",
+      "owner" : {
+        "display_name" : "Eduardo Javier",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/12148859496"
+        },
+        "href" : "https://api.spotify.com/v1/users/12148859496",
+        "id" : "12148859496",
+        "type" : "user",
+        "uri" : "spotify:user:12148859496"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MjYwNSxlZDRmMTc1NzBlYjgxMTVkNDE4ZmU0M2RiNGVkZGYxYmE2MzdkYmZl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/1tcVKMRGQZPYOMEHbbAIWp/tracks",
+        "total" : 212
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:1tcVKMRGQZPYOMEHbbAIWp",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "No rules. No boundaries. Just cool music you need to hear. Cover: MOD SUN",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX82GYcclJ3Ug"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX82GYcclJ3Ug",
+      "id" : "37i9dQZF1DX82GYcclJ3Ug",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003a6a9e6f16ff794be98d2dc90",
+        "width" : null
+      } ],
+      "name" : "The New Alt",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDAzMTYwMSwwMDAwMDY0ODAwMDAwMTc1NzdiYmQ5ZWIwMDAwMDE3NTc3YjJiNDUz",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX82GYcclJ3Ug/tracks",
+        "total" : 130
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX82GYcclJ3Ug",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "This is Atif Aslam. The essential tracks, all in one playlist.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DZ06evO1n6IJz"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO1n6IJz",
+      "id" : "37i9dQZF1DZ06evO1n6IJz",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://thisis-images.scdn.co/37i9dQZF1DZ06evO1n6IJz-default.jpg",
+        "width" : null
+      } ],
+      "name" : "This Is Atif Aslam",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MjY3NDEzOTIsMDAwMDAwMDA5NjYwNTc5YTc0YzA3MTk2MGU0NDQxZWY1NjE4YTIzNw==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DZ06evO1n6IJz/tracks",
+        "total" : 51
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DZ06evO1n6IJz",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "La casa del flamenco urbano, de los quejíos y el autotune. Foto: Daviles, Omar Montes, Rvfv y Keen Levy",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWZMtkg0cMXbp"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZMtkg0cMXbp",
+      "id" : "37i9dQZF1DWZMtkg0cMXbp",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000036a93cf534f2dc7687ec30be1",
+        "width" : null
+      } ],
+      "name" : "Flamenco + Flow",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDAxMjQ2MCwwMDAwMDA5ODAwMDAwMTc1NzY5N2M5OTAwMDAwMDE3NGJhZTgwMDMw",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWZMtkg0cMXbp/tracks",
+        "total" : 59
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWZMtkg0cMXbp",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "ALT the Good Vibes.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX2SK4ytI2KAZ"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2SK4ytI2KAZ",
+      "id" : "37i9dQZF1DX2SK4ytI2KAZ",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000347cd5a0f1c493c1f809cdeec",
+        "width" : null
+      } ],
+      "name" : "It's ALT Good!",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAxOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX2SK4ytI2KAZ/tracks",
+        "total" : 100
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX2SK4ytI2KAZ",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "A festa já vai começar! A melhor seleção de faixas inspiradas no DJ Alok. Sugestões: spotifyplaylists2019@gmail.com. Photo by Jonathan Borba on Unsplash.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/33s1pvN6rHzXTWieOuCxmF"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/33s1pvN6rHzXTWieOuCxmF",
+      "id" : "33s1pvN6rHzXTWieOuCxmF",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebbd2156c9f38992c8089e8fa32",
+        "width" : null
+      } ],
+      "name" : "Alok: As melhores 🇧🇷",
+      "owner" : {
+        "display_name" : "Your music place",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/0j2zmzk3v6f4ijfp5h9omxqcs"
+        },
+        "href" : "https://api.spotify.com/v1/users/0j2zmzk3v6f4ijfp5h9omxqcs",
+        "id" : "0j2zmzk3v6f4ijfp5h9omxqcs",
+        "type" : "user",
+        "uri" : "spotify:user:0j2zmzk3v6f4ijfp5h9omxqcs"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTI4MSwyYWEyZTIyYzgxMzNiZGNkNmFiNTg2YjBlZjBlMmM2MDgyODAwOWU5",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/33s1pvN6rHzXTWieOuCxmF/tracks",
+        "total" : 102
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:33s1pvN6rHzXTWieOuCxmF",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Warm instrumental guitar for a gentle start.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWT3gM3xdPT0c"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT3gM3xdPT0c",
+      "id" : "37i9dQZF1DWT3gM3xdPT0c",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000032c34572f4288b46920f820f4",
+        "width" : null
+      } ],
+      "name" : "Cozy Acoustic Morning",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwMzg5NTU0NSwwMDAwMDAwZDAwMDAwMTc1NmY5ZmNlYmQwMDAwMDE3MGM0ZDA0NWY1",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWT3gM3xdPT0c/tracks",
+        "total" : 106
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWT3gM3xdPT0c",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Los hechos reales de nuestro pueblo. Ponte corridos viejitos, ponte a Chalino Sánchez.",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWUuQG5KIiBcn"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUuQG5KIiBcn",
+      "id" : "37i9dQZF1DWUuQG5KIiBcn",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003ec17a03e6fdb5d73323c2790",
+        "width" : null
+      } ],
+      "name" : "Corridos de Antaño",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAyNywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWUuQG5KIiBcn/tracks",
+        "total" : 60
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWUuQG5KIiBcn",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Featuring &quot;Your Man&quot;, &quot;Afterthought&quot;, &quot;Daylight&quot;, “Gimme Love”, “Run&quot;, &quot;Sanctuary&quot; + more. Tickets for The Extravaganza are available at https://jojiextravaganza.com",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/4mRAHobPpqhXujTxoLsTIo"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/4mRAHobPpqhXujTxoLsTIo",
+      "id" : "4mRAHobPpqhXujTxoLsTIo",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706c0000bebba49e58f2ccd37c51f125f636",
+        "width" : null
+      } ],
+      "name" : "Nectar + More",
+      "owner" : {
+        "display_name" : "88rising",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/88rising"
+        },
+        "href" : "https://api.spotify.com/v1/users/88rising",
+        "id" : "88rising",
+        "type" : "user",
+        "uri" : "spotify:user:88rising"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTc5LDA0NTI4Yzg3MmFmNmFhOTc3ZTJhNTQ4Y2EwYmI5MGY4ZGExMjdlODA=",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/4mRAHobPpqhXujTxoLsTIo/tracks",
+        "total" : 81
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:4mRAHobPpqhXujTxoLsTIo",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Playlist Created with https:&#x2F;&#x2F;www.tunemymusic.com?source=plcreateds that lets you transfer your playlist to Spotify from any music platform such as YouTube, Deezer etc",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/1OCl4QRw82sWWhyjGNdKwg"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/1OCl4QRw82sWWhyjGNdKwg",
+      "id" : "1OCl4QRw82sWWhyjGNdKwg",
+      "images" : [ {
+        "height" : 640,
+        "url" : "https://mosaic.scdn.co/640/ab67616d0000b2732cf5f22f9176934c91cea334ab67616d0000b2734672209bad38cd1eb0d66048ab67616d0000b2739c673d0412f1824fe9abf20dab67616d0000b2739ce10bf887848831c83ec215",
+        "width" : 640
+      }, {
+        "height" : 300,
+        "url" : "https://mosaic.scdn.co/300/ab67616d0000b2732cf5f22f9176934c91cea334ab67616d0000b2734672209bad38cd1eb0d66048ab67616d0000b2739c673d0412f1824fe9abf20dab67616d0000b2739ce10bf887848831c83ec215",
+        "width" : 300
+      }, {
+        "height" : 60,
+        "url" : "https://mosaic.scdn.co/60/ab67616d0000b2732cf5f22f9176934c91cea334ab67616d0000b2734672209bad38cd1eb0d66048ab67616d0000b2739c673d0412f1824fe9abf20dab67616d0000b2739ce10bf887848831c83ec215",
+        "width" : 60
+      } ],
+      "name" : "Bruno e Marrone - antigas e melhores",
+      "owner" : {
+        "display_name" : "Kevin Oliveira",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/kevinhooliveira"
+        },
+        "href" : "https://api.spotify.com/v1/users/kevinhooliveira",
+        "id" : "kevinhooliveira",
+        "type" : "user",
+        "uri" : "spotify:user:kevinhooliveira"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "NzcsYThkMGUzZmQ5MGNjNGNiOThlNGE4YjFjN2IzNGUzNjlkNGFjMzYxYQ==",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/1OCl4QRw82sWWhyjGNdKwg/tracks",
+        "total" : 69
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:1OCl4QRw82sWWhyjGNdKwg",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Ouça os grandes sucessos da dupla!",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWU68uicJatJp"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWU68uicJatJp",
+      "id" : "37i9dQZF1DWU68uicJatJp",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f0000000340316dc2925309113c61d6a4",
+        "width" : null
+      } ],
+      "name" : "This Is Henrique & Juliano",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTU5ODAyNTM2MCwwMDAwMDAyYjAwMDAwMTc0MTFiYmUyZDMwMDAwMDE3NDA0MWZlZjFj",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWU68uicJatJp/tracks",
+        "total" : 65
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWU68uicJatJp",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Hip-hop mexicano, rimas de la calle en viva voz. Foto: Santa Fe Klan y Gera MX",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVFZbCNivv6B",
+      "id" : "37i9dQZF1DWVFZbCNivv6B",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f000000036a39e18eaa355149237d690a",
+        "width" : null
+      } ],
+      "name" : "Arena Hip-Hop",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDM2ODAxNiwwMDAwMDM3OTAwMDAwMTc1OGJjOTI1NjcwMDAwMDE3NTUxMzI5NDAy",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DWVFZbCNivv6B/tracks",
+        "total" : 80
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DWVFZbCNivv6B",
+      "views": 0
+    }, {
+      "collaborative" : false,
+      "description" : "Because the best things in life are wild and free...",
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/playlist/37i9dQZF1DX5Q5wA1hY6bS"
+      },
+      "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Q5wA1hY6bS",
+      "id" : "37i9dQZF1DX5Q5wA1hY6bS",
+      "images" : [ {
+        "height" : null,
+        "url" : "https://i.scdn.co/image/ab67706f00000003dcdb2503a0e4e2c6b3bfdd19",
+        "width" : null
+      } ],
+      "name" : "Wild + Free",
+      "owner" : {
+        "display_name" : "Spotify",
+        "external_urls" : {
+          "spotify" : "https://open.spotify.com/user/spotify"
+        },
+        "href" : "https://api.spotify.com/v1/users/spotify",
+        "id" : "spotify",
+        "type" : "user",
+        "uri" : "spotify:user:spotify"
+      },
+      "primary_color" : null,
+      "public" : null,
+      "snapshot_id" : "MTYwNDUyNjAyMCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+      "tracks" : {
+        "href" : "https://api.spotify.com/v1/playlists/37i9dQZF1DX5Q5wA1hY6bS/tracks",
+        "total" : 90
+      },
+      "type" : "playlist",
+      "uri" : "spotify:playlist:37i9dQZF1DX5Q5wA1hY6bS",
+      "views": 0
+    } ],
+    "limit" : 50,
+    "next" : "https://api.spotify.com/v1/search?query=a&type=playlist&offset=55&limit=50",
+    "offset" : 5,
+    "previous" : "https://api.spotify.com/v1/search?query=a&type=playlist&offset=0&limit=50",
+    "total" : 2500028
+  }
+}

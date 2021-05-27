@@ -1,0 +1,198 @@
+.bg_color_main {
+    background-color: #2d2d31;
+}
+
+#new_mixtape_page_container {
+    position: relative;
+    width: 100%;
+    height: 100%; 
+    background-color: #2d2d31;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+.new_mixtape_page_songify {
+    left: 304px;
+    top: 14px;
+    position: relative;
+    overflow: visible;
+    font-family: Calibri;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 160px;
+    color: rgba(255,0,0,1);
+}
+
+.new_mixtape_page_img_container {
+    position: relative;
+    left: 5%;
+    width: 45%;
+    height: 4%;
+}
+
+#new_mixtape_page_img_url {
+    height: 100%;
+    width: 100%;
+}
+
+.new_mixtape_page_table_container {
+    border: 1px solid grey;
+    position: relative;
+    top: -624px;
+    right: -52%;
+    width: 48%;
+}
+
+
+.new_mixtape_page_table {
+    height: 600px;
+    width: 100%;
+}
+
+.new_mixtape_page_table_head {
+    width: 100%;
+    border-bottom: 1px solid grey;
+}
+
+.new_mixtape_page_table_body {
+    height: 80%;
+    position: relative;
+    color: white;
+    font-size: 30px;
+    overflow: auto;
+}
+
+.new_mixtape_page_search_bar {
+    position: relative;
+    top: 30px;
+    left: 9%;
+    border-radius: 25px;
+    border: 1px solid grey;
+    width: 69%;
+    height: 52px;
+    background-color: #2d2d31;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.new_mixtape_page_search_bar:focus {
+    outline: none;
+}
+
+.new_mixtape_page_search_bar:placeholder {
+    font-weight: bold;
+}
+
+.new_mixtape_page_create {
+    position: relative;
+    left: 81%;
+    top: -16px;
+    font-size: 35px;
+    font-weight: bold;
+    color: red;
+}
+
+.new_mixtape_page_card_index {
+    /* position: relative;
+    left: 5%; */
+    width: 50px;
+}
+
+.new_mixtape_page_card_name {
+    /* position: relative;
+    left: 30%; */
+    width: 350px;
+}
+
+.new_mixtape_page_card_author {
+    /* position: relative;
+    left: 44%; */
+    width: 280px;
+}
+
+.new_mixtape_page_card_up {
+    /* position: relative;
+    left: 788%; */
+    left: 20px;
+    width: 50px;
+}
+
+.new_mixtape_page_card_down {
+    /* position: relative;
+    left: 948%; */
+    width: 50px;
+}
+
+.new_mixtape_page_card_remove {
+    /* position: relative;
+    left: 1100%; */
+    width: 50px;
+}
+
+.new_mixtape_page_card_remove, 
+.new_mixtape_page_card_down,
+.new_mixtape_page_card_up,
+.new_mixtape_page_card_author,
+.new_mixtape_page_card_name,
+.new_mixtape_page_card_index 
+{
+    border: 1px solid white;
+    /* width: 100px; */
+}
+
+.pointer_on_hover {
+    cursor: pointer;
+}
+#new_mixtape_songify_link:hover{
+    opacity: 0.5;
+}
+#new_mixtape_mixtapes_link:hover{
+    opacity: 0.5;
+}
+#new_mixtape_story_link:hover{
+    opacity: 0.5;
+}
+.new_mixtape_page_create:hover{
+    cursor: pointer;
+    opacity: 0.5;
+}
+#new_mixtape_page_add_song_button{
+    position: relative;
+    font-size: 50px;
+}
+#new_mixtape_page_add_song_button:hover{
+    opacity: 0.5;
+    cursor: pointer;
+}
+#new_mixtape_page_search_input {
+    background-color: #2d2d31;
+    border: 1px solid grey;
+    border-radius: 10px;
+    width: 100%;
+    height: 50px;
+    font-size: 40px;
+}
+#new_mixtape_songify_link{
+    top: 20%;
+    left: 10%;
+}
+#new_mixtape_mixtapes_link{
+    left: 50%;
+}
+#new_mixtape_story_link{
+    left: 70%;
+}
+#new_mixtape_page_img_url_input{
+    position: absolute;
+    left: 15%;
+}
+#new_mixtape_page_img_button{
+    position:absolute;
+    left: 10%;
+}
+#top_featured_mixtapes_text{
+    position: relative;
+    top: 40px;
+    text-align: center;
+}

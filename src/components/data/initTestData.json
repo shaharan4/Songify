@@ -1,0 +1,373 @@
+{
+    "name": "featured mixtapes",
+    "playlists": {
+      "href": "https://api.spotify.com/v1/search?query=top&type=playlist&offset=0&limit=10",
+      "items": [
+        {
+          "collaborative": false,
+          "description": "The tracks that gamers love.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWTyiBJ6yEqeu"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu",
+          "id": "37i9dQZF1DWTyiBJ6yEqeu",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f0000000393e494dfa690515c1dad5885",
+              "width": null
+            }
+          ],
+          "name": "Top Gaming Tracks",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwNTc2NTI2NywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWTyiBJ6yEqeu/tracks",
+            "total": 60
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DWTyiBJ6yEqeu"
+        },
+        {
+          "collaborative": false,
+          "description": "The best mix of today's Christian music worldwide. Cover: Lecrae",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcb6CQIjdqKy"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcb6CQIjdqKy",
+          "id": "37i9dQZF1DXcb6CQIjdqKy",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f0000000382c8772b924ed74aef88d068",
+              "width": null
+            }
+          ],
+          "name": "Top Christian",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwNTI0NzYzNywwMDAwMDRkNzAwMDAwMTc1YzAzNzE5MDQwMDAwMDE3NWMwMzZjNWYw",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcb6CQIjdqKy/tracks",
+            "total": 95
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DXcb6CQIjdqKy"
+        },
+        {
+          "collaborative": false,
+          "description": "Rewind and rediscover big songs from 2010.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXc6IFF23C9jj"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc6IFF23C9jj",
+          "id": "37i9dQZF1DXc6IFF23C9jj",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f0000000366ef4f04bf62b0c7f6462096",
+              "width": null
+            }
+          ],
+          "name": "Top Hits of 2010",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwNTc2NTIzOSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXc6IFF23C9jj/tracks",
+            "total": 100
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DXc6IFF23C9jj"
+        },
+        {
+          "collaborative": false,
+          "description": "Billie Eilish is on top of the Hottest 50!",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+          "id": "37i9dQZF1DXcBWIGoYBM5M",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003b9efebcb58cbf161f2c3a515",
+              "width": null
+            }
+          ],
+          "name": "Today's Top Hits",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwNTU0MzE5MSwwMDAwMDQ1NzAwMDAwMTc1ZDFkNGUyMDcwMDAwMDE3NWJlZTQzMGFh",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+            "total": 50
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+        },
+        {
+          "collaborative": false,
+          "description": "Rewind and rediscover big songs from 2012. Cover: Lorde.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0yEZaMOXna3"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0yEZaMOXna3",
+          "id": "37i9dQZF1DX0yEZaMOXna3",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003e89f138fe6ec354f4d6dd42a",
+              "width": null
+            }
+          ],
+          "name": "Top Hits of 2012",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwNTc2NTIyMywwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0yEZaMOXna3/tracks",
+            "total": 100
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DX0yEZaMOXna3"
+        },
+        {
+          "collaborative": false,
+          "description": "The best tracks from the world of OPM and pop. Cover: 24kGoldn, iann dior, J Balvin, Justin Bieber",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcZQSjptOQtk"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcZQSjptOQtk",
+          "id": "37i9dQZF1DXcZQSjptOQtk",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f000000039e36fe56691b3c3ccb025aa2",
+              "width": null
+            }
+          ],
+          "name": "Top Hits Philippines",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwNTY3MTE2MiwwMDAwMDEyNzAwMDAwMTc1ZDk3NTkzZDQwMDAwMDE3NWQ5NzFlMWI3",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcZQSjptOQtk/tracks",
+            "total": 51
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DXcZQSjptOQtk"
+        },
+        {
+          "collaborative": false,
+          "description": "A playlist com os maiores hits do país. Foto: Zé Felipe.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0FOF1IUWK1W"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0FOF1IUWK1W",
+          "id": "37i9dQZF1DX0FOF1IUWK1W",
+          "images": [
+            {
+              "height": null,
+              "url": "https://i.scdn.co/image/ab67706f00000003c843ef890623aeb6c3a9b810",
+              "width": null
+            }
+          ],
+          "name": "Top Brasil",
+          "owner": {
+            "display_name": "Spotify",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotify"
+            },
+            "href": "https://api.spotify.com/v1/users/spotify",
+            "id": "spotify",
+            "type": "user",
+            "uri": "spotify:user:spotify"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "MTYwNTYzMTg4OSwwMDAwMDQ1NjAwMDAwMTc1ZDcxZTUxY2YwMDAwMDE3NWJjY2VlYTNi",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0FOF1IUWK1W/tracks",
+            "total": 50
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZF1DX0FOF1IUWK1W"
+        },
+        {
+          "collaborative": false,
+          "description": "Your daily update of the most played tracks right now.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF",
+          "id": "37i9dQZEVXbMDoHDwVN2tF",
+          "images": [
+            {
+              "height": null,
+              "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_large.jpg",
+              "width": null
+            }
+          ],
+          "name": "Global Top 50",
+          "owner": {
+            "display_name": "spotifycharts",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotifycharts"
+            },
+            "href": "https://api.spotify.com/v1/users/spotifycharts",
+            "id": "spotifycharts",
+            "type": "user",
+            "uri": "spotify:user:spotifycharts"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "NjU5MDA4NTM3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks",
+            "total": 50
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZEVXbMDoHDwVN2tF"
+        },
+        {
+          "collaborative": false,
+          "description": "Your daily update of the most played tracks in Japan right now.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbKXQ4mDTEBXq"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbKXQ4mDTEBXq",
+          "id": "37i9dQZEVXbKXQ4mDTEBXq",
+          "images": [
+            {
+              "height": null,
+              "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_jp_large.jpg",
+              "width": null
+            }
+          ],
+          "name": "Japan Top 50",
+          "owner": {
+            "display_name": "spotifycharts",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotifycharts"
+            },
+            "href": "https://api.spotify.com/v1/users/spotifycharts",
+            "id": "spotifycharts",
+            "type": "user",
+            "uri": "spotify:user:spotifycharts"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "NjU5MDA4NTMwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbKXQ4mDTEBXq/tracks",
+            "total": 50
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZEVXbKXQ4mDTEBXq"
+        },
+        {
+          "collaborative": false,
+          "description": "Your daily update of the most played tracks in Brazil right now.",
+          "external_urls": {
+            "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbMXbN3EUUhlg"
+          },
+          "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMXbN3EUUhlg",
+          "id": "37i9dQZEVXbMXbN3EUUhlg",
+          "images": [
+            {
+              "height": null,
+              "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_br_large.jpg",
+              "width": null
+            }
+          ],
+          "name": "Brazil Top 50",
+          "owner": {
+            "display_name": "spotifycharts",
+            "external_urls": {
+              "spotify": "https://open.spotify.com/user/spotifycharts"
+            },
+            "href": "https://api.spotify.com/v1/users/spotifycharts",
+            "id": "spotifycharts",
+            "type": "user",
+            "uri": "spotify:user:spotifycharts"
+          },
+          "primary_color": null,
+          "public": null,
+          "snapshot_id": "NjU5MDA4NTM3LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+          "tracks": {
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMXbN3EUUhlg/tracks",
+            "total": 50
+          },
+          "type": "playlist",
+          "uri": "spotify:playlist:37i9dQZEVXbMXbN3EUUhlg"
+        }
+      ],
+      "limit": 10,
+      "next": "https://api.spotify.com/v1/search?query=top&type=playlist&offset=10&limit=10",
+      "offset": 0,
+      "previous": null,
+      "total": 639876
+    }
+  }

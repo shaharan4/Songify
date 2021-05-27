@@ -1,0 +1,495 @@
+#MainPage {
+  /* position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(45,45,49,1);
+  overflow: hidden; */
+
+}
+#Addstory {
+  left: 1290px;
+  top: 240px;
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  cursor: pointer;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255,0,0,1);
+}
+#Songify {
+  left: 400px;
+  top: 22px;
+  position: absolute;
+  overflow: visible;
+  width: 160px;
+  height: 30px;
+  cursor: pointer;
+  text-align: left;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 160px;
+  color: rgba(255,0,0,1);
+}
+#MyMixtapes {
+  left: 1290px;
+  top: 140px;
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  cursor: pointer;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255,0,0,1);
+}
+#Story {
+  left: 1571px;
+  top: 140px;
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  cursor: pointer;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255,0,0,1);
+}
+
+.container {
+
+  
+  position: absolute;
+  overflow: visible;
+  width: 1120px;
+  height: 218px;
+  left: 400px;
+  top: 241px;
+  margin: 0px auto 0 auto;
+  text-align : center;
+  color:white;
+}
+
+.header {
+  background: white;
+  padding: 7px;
+}
+
+.header h1 {
+  font-size: 35px;
+  margin: 0px;
+  color: black;
+}
+
+#storyBox {
+  /* opacity: 0.58;
+  fill: rgba(255,255,255,1);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto; */
+}
+.storyBox {
+  box-sizing: border-box;
+  /* position: absolute;*/
+  overflow: visible; 
+  width: 1120px;
+  height: 218px;
+  /* left: 400px;
+  top: 241px; */
+  display:flex;
+  align-items: center;
+  border-radius:  40px;
+  margin: 50px auto;
+  background-color: rgba(112,112,112,1);
+}
+
+.list-item{
+  display:flex;
+  align-items: center;
+  color: red;
+  margin: 1px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.title {
+  flex:1;
+  padding: 1px;
+  text-align: left;
+}
+
+.actions {
+}
+
+.create-contianer {
+  magrin: 20px;
+}
+
+.create-form {
+  display: flex;
+}
+
+.create-form input {
+  flex: 4;
+  padding: 10px;
+}
+
+.create-form button {
+  flex: 1;
+}
+
+#user_login_icon {
+  position: relative;
+  /* background-image: url('../Songify UI/User Login Cropped.png'); */
+  background-size: cover;
+  border-top-left-radius: 50%;
+  border-bottom-left-radius: 50%;
+  border-top-right-radius: 50%;
+  border-bottom-right-radius: 50%;
+  width: 60px;
+  height: 60px;
+  margin-left: auto;
+  overflow: visible;
+  z-index: 10;
+}
+
+* {
+  box-sizing: border-box;
+}
+.fa-disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+#main_page_search{
+  position: absolute;
+  top: -80px;
+  width: 90%;
+
+}
+/* Style the search field */
+form.search_bar input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: rgba(45,45,49,1);
+  margin: auto;
+  max-width: 700px;
+  margin-left: 400px;
+  margin-top: 180px;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+}
+
+/* Style the submit button */
+form.search_bar button {
+  float: left;
+  width: 5%;
+  padding: 10px;
+  background:  rgba(45,45,49,1);
+  overflow: hidden;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+  margin-top: 180px;
+  border-top-right-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+form.search_bar button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.search_bar::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+.profile_icon_button {
+  display:block;
+  float: right;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  border: 1px solid red;
+  border: solid;
+  margin-left: auto;
+  /* left: 1000px; */
+  /* position: absolute;
+  top: 5%;
+  right: 8%;
+  border-radius: 50%;
+  font-size: 100px; */
+  position: relative;
+  top: -20%;
+  right: 9%;
+
+}
+.search_bar_container_main{
+    position: relative;
+    left: 96px;
+}
+.profile_icon_button:hover{
+  opacity: 0.5;
+  cursor: pointer;
+}
+#login_overlay_container {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.7); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
+
+.login_overlay_wrapper {
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  height: 760px;
+  width: 500px;
+  background-color: #2d2d31;
+  border-radius: 25px;
+  text-align: center;
+  transform: translate(-50%,-50%);
+  -ms-transform: translate(-50%,-50%);
+  color: white;
+}
+
+.login_overlay_exit {
+  position: absolute;
+  top: 2%;
+  left: -16%;
+  cursor: pointer;
+  z-index: 3;
+}
+
+.login_overlay_table {
+  position: absolute;
+  top: -4%;
+  left: 50%;
+  border-collapse: separate;
+  border-spacing: 0px 20px;
+  text-align: center;
+  font-size: 30px;
+  transform: translate(-50%);
+  -ms-transform: translate(-50%,-50%);
+  width: 100%;
+}
+
+.login_overlay_edit {
+  border-bottom: 1px solid grey;
+  padding-bottom: 8px;
+}
+
+.login_overlay_send {
+  border-bottom: 1px solid grey;
+  padding-bottom: 8px;
+}
+.login_overlay_username {
+padding-bottom: 8px;
+
+
+}
+
+.login_sign_in {
+  top: 20px;
+}
+
+.login_overlay_password {
+padding-bottom: 8px;
+-webkit-text-security: disc;
+
+
+}
+
+#signup_overlay_container {
+position: fixed; /* Sit on top of the page content */
+display: none; /* Hidden by default */
+width: 100%; /* Full width (cover the whole page) */
+height: 100%; /* Full height (cover the whole page) */
+top: 0;
+left: 0;
+right: 0;
+bottom: 0;
+background-color: rgba(0,0,0,0.7); /* Black background with opacity */
+z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+}
+
+.signup_overlay_wrapper {
+position: absolute;
+top: 48%;
+left: 50%;
+height: 800px;
+width: 500px;
+background-color: #2d2d31;
+border-radius: 25px;
+text-align: center;
+transform: translate(-50%,-50%);
+-ms-transform: translate(-50%,-50%);
+color: white;
+}
+
+.signup_overlay_exit {
+position: absolute;
+top: -2%;
+left: -5%;
+cursor: pointer;
+}
+
+.signup_overlay_table {
+  position: absolute;
+  top: 2%;
+  left: 80%;
+  border-collapse: separate;
+  border-spacing: 0px 20px;
+  text-align: center;
+  font-size: 30px;
+  transform: translate(-50%);
+  -ms-transform: translate(-50%,-50%);
+  width: 100%;
+}
+
+.signup_overlay_edit {
+border-bottom: 1px solid grey;
+padding-bottom: 8px;
+}
+.signup_overlay_signup_container {
+  position: relative;
+  left: 530px;
+  width: 300px;
+  top: 100px;
+}
+.signup_overlay_send {
+border-bottom: 1px solid grey;
+padding-bottom: 8px;
+}
+.signup_overlay_username {
+border-bottom: 1px solid grey;
+padding-bottom: 8px;
+
+
+}
+.signup_overlay_password {
+border-bottom: 1px solid grey;
+padding-bottom: 8px;
+-webkit-text-security: disc;
+}
+.signup_overlay_password_confirm{
+ border-bottom: 1px solid grey;
+padding-bottom: 8px;
+-webkit-text-security: disc;
+}
+#signup_overlay_password{
+  -webkit-text-security: disc;
+}
+#signup_overlay_password_confirm{
+  -webkit-text-security: disc;
+}
+
+
+.featured_mixtape_item{
+border: solid;
+}
+.featured_mixtape_main{
+}
+.featured_mixtape_name:hover{
+cursor: pointer;
+opacity: 0.5;
+}
+#featured_mixtapes_scroll_left:enabled:hover{
+cursor: pointer;
+opacity: 0.5
+}
+#featured_mixtapes_scroll_right:enabled:hover{
+cursor: pointer;
+opacity: 0.5
+}
+#featured_mixtape_item_container1{
+  height: 35%;
+  width: 15%;
+  left: 21%;
+  border: 2px solid white;
+  position: absolute;
+  top: 60%;
+  cursor: pointer;
+}
+#featured_mixtape_item_container1:hover{
+  opacity: 0.6;
+}
+#featured_mixtape_item_container2{
+  height: 35%;
+  width: 15%;
+  left: 42%;
+  border: 2px solid white;
+  position: absolute;
+  top: 60%;
+  cursor: pointer;
+}
+#featured_mixtape_item_container2:hover{
+  opacity: 0.6;
+}
+#featured_mixtape_item_container3{
+  height: 35%;
+  width: 15%;
+  left: 63%;
+  border: 2px solid white;
+  position: absolute;
+  top: 60%;
+  cursor: pointer;
+}
+#featured_mixtape_item_container3:hover{
+  opacity: 0.6;
+}
+#featured_mixtape_image1{
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  bottom: 20%;
+}
+#featured_mixtape_image2{
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  bottom: 20%;
+}
+#featured_mixtape_image3{
+  width: 100%;
+  height: 80%;
+  position: absolute;
+  bottom: 20%;
+}
+
+
+#main_songify_link:hover{
+opacity: 0.5
+}
+#main_my_mixtapes_link:hover{
+opacity: 0.5
+}
+#main_story_link:hover{
+opacity: 0.5
+}

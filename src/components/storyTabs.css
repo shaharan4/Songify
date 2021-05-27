@@ -1,0 +1,31 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  padding: 30px;
+  font-family: 'Helvetica';
+  background: #cad1d6;
+}
+
+.tab-set {
+  padding: 20px;
+  border: 1px solid #a5acb1;
+  border-radius: 5px;
+  background: #fff;
+}
+
+.tab-list {
+  display: flex;
+  position: relative;
+}
+
+.tab-list-item {
+  flex: 1;
+  padding: 12px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0.5;
+  transition: opacity 180ms ease-out;
+  outline: 0;
+}

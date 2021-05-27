@@ -1,0 +1,269 @@
+#StoryPage {
+}
+
+.story_page{
+  background-color: rgba(45,45,49,1);
+  height: 300%;
+}
+
+
+.story_page_songify {
+  left: -280px;
+  top: 14px;
+  position: relative;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 160px;
+  color: rgba(255,0,0,1);
+}
+
+.story_page_my_mixtapes {
+  left: 60px;
+  position: relative;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255,0,0,1);
+}
+.story_page_story {
+  left: 150px;
+  position: relative;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255,0,0,1);
+}
+
+
+
+.story_page_profile_pic {
+  position: relative;
+  left:900px;
+  top:-220px;
+  height: 100px;
+  width: 100px;
+}
+.storyTabs {
+  position : relative;
+  top: 0px;
+  left: -40px;
+  width: 1400px;
+  z-index: 2;
+}
+.Addstory {
+  left: 580px;
+  top: -280px;
+  position: relative;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  cursor: pointer;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  color: rgba(255,0,0,1);
+  z-index: 3;
+}
+.Addstory:hover {
+  text-decoration: none;
+  color: rgba(255,0,0,1);
+}
+
+.nav_bar:hover {
+  text-decoration: none;
+  color: rgba(255,0,0,1);
+}
+.nav_bar {
+  /* padding-top: 1%; */
+}
+
+.tempButton {
+  position: absolute;
+  top: 30%;
+  left: 40%
+}
+/* #Songify {
+  left: 400px;
+  top: 22px;
+  position: absolute;
+  overflow: visible;
+  width: 160px;
+  height: 30px;
+  cursor: pointer;
+  text-align: left;
+  font-family: Calibri;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 160px;
+  color: rgba(255,0,0,1);
+}
+#MyMixtapes {
+  left: 1290px;
+  top: 140px;
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  cursor: pointer;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255,0,0,1);
+}
+#Story {
+  left: 1571px;
+  top: 140px;
+  position: absolute;
+  overflow: visible;
+  width: 245px;
+  height: 56px;
+  cursor: pointer;
+  text-align: left;
+  font-family: Segoe UI;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(255,0,0,1);
+} */
+
+.container {
+  position: relative;
+  width: 1400px;
+  height: 218px;
+  /* overflow-y: visible; */
+  /* overflow-x: scroll; */
+  /* scrollbar-width: auto; */
+  left: -200px;
+  top: -30px;
+  z-index: 1;
+}
+
+/* .header {
+  background: white;
+  padding: 7px;
+}
+
+.header h1 {
+  font-size: 35px;
+  margin: 0px;
+  color: black;
+} */
+
+
+#storyBox {
+  /* opacity: 0.58;
+  fill: rgba(255,255,255,1);
+  stroke: rgba(112,112,112,1);
+  stroke-width: 1px;
+  stroke-linejoin: miter;
+  stroke-linecap: butt;
+  stroke-miterlimit: 4;
+  shape-rendering: auto; */
+}
+
+.storyBox {
+  box-sizing: border-box;
+  /* position: relative; */
+  overflow: visible; 
+  width: 1400px;
+  height: 218px;
+  /* left: 400px;
+  top: 241px; */
+  display:flex;
+  align-items: center;
+  border-radius:  40px;
+  margin: 50px auto;
+  background-color: rgba(112,112,112,1);
+}
+
+.storyBox:hover {
+  opacity: 0.5;
+}
+
+
+.list-items{
+
+  align-items: center;
+  scroll-behavior: auto;
+  color: red;
+  margin: 1px;
+  padding: 10px;
+  font-size: 18px;
+}
+
+.storybox_title {
+  padding: 1px;
+  padding-left: 20px;
+  text-align: left;
+	/* overflow: visible; */
+	width: 688px;
+	white-space: nowrap;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+.storybox_publisher {
+  padding: 1px;
+  padding-top: 30px;
+  padding-left: 30px;
+  text-align: left;
+	/* overflow: visible; */
+	width: 688px;
+	white-space: nowrap;
+	font-family: Calibri;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+
+.actions {
+}
+
+/* .create-contianer {
+  magrin: 20px;
+} */
+
+.create-form {
+  display: flex;
+}
+
+.create-form input {
+  flex: 4;
+  padding: 10px;
+}
+
+.create-form button {
+  flex: 1;
+}
+
+#_1 {
+  background-image: url('1.PNG');
+  background-size: cover;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+  width: 344px;
+  height: 218px;
+  overflow: visible;
+}
+
+.publisher_profile_pic {
+  width: 90px;
+  position: relative;
+}
+
+.story_item_delete_button {
+  /* cursor: pointer; */
+}
+.story_item_delete_button:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}

@@ -1,0 +1,2478 @@
+[
+  {
+    "Account": {
+      "accoount_name": "Ina Hernandez",
+      "account_id": "5f9a460715537b2b7826ec93",
+      "account_pw": 200,
+      "account_profile_pic": "https://source.unsplash.com/user/erondu/140x140",
+      "account_email": "inahernandez@vortexaco.com",
+      "user_state": {
+        "mood": "nothing",
+        "song": {
+          "song_url": "url placeholder",
+          "song_author": "The Beatles",
+          "song_name": "Miss You",
+          "song_length": 129,
+          "song_likes": 173385,
+          "song_id": "5f9a46075befd856a8ab282b",
+          "song_paused": true,
+          "num_sec_played": 93
+        }
+      },
+      "storyies": [
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 969911,
+          "story_privacy": "self_only",
+          "story_id": "5f9a4607cc11ad7bdda8ec5c"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 286071,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a46072a9651a4bc60b438"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 886467,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a46079d811aecb4ebf1a2"
+        }
+      ],
+      "mixtapes": [
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 129,
+                "song_likes": 483132,
+                "song_id": "5f9a4607770a027f92a268d3",
+                "song_paused": true,
+                "num_sec_played": 170
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 226,
+                "song_likes": 167202,
+                "song_id": "5f9a4607e9ac3c2d98bb88d2",
+                "song_paused": false,
+                "num_sec_played": 110
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 234,
+                "song_likes": 771116,
+                "song_id": "5f9a4607cc1c17313de91a5e",
+                "song_paused": true,
+                "num_sec_played": 163
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 223,
+                "song_likes": 913925,
+                "song_id": "5f9a4607369ce193c8ff396d",
+                "song_paused": false,
+                "num_sec_played": 126
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 132,
+                "song_likes": 885541,
+                "song_id": "5f9a46077ed43e0ad5a4a0fa",
+                "song_paused": true,
+                "num_sec_played": 206
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607c98f9b0527a09bbe",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 757114,
+          "mixtape_num_songs": 28,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a46077b523989a744ca0b",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 153,
+                "song_likes": 268175,
+                "song_id": "5f9a460705892e39d8e996f6",
+                "song_paused": false,
+                "num_sec_played": 124
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 222,
+                "song_likes": 897526,
+                "song_id": "5f9a4607e6f67d063ead77f1",
+                "song_paused": false,
+                "num_sec_played": 107
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 147,
+                "song_likes": 621451,
+                "song_id": "5f9a46076949d1b0ea870d72",
+                "song_paused": false,
+                "num_sec_played": 152
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607f9e796d957ba6f96",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 109162,
+          "mixtape_num_songs": 37,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Jackie",
+          "mixtape_id": "5f9a46073f21c49b7ef922f9",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 223,
+                "song_likes": 641131,
+                "song_id": "5f9a46077ce46eec81b22e17",
+                "song_paused": false,
+                "num_sec_played": 90
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 134,
+                "song_likes": 580022,
+                "song_id": "5f9a4607094814d61874f941",
+                "song_paused": false,
+                "num_sec_played": 218
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 100,
+                "song_likes": 571957,
+                "song_id": "5f9a46076ce5094ae72b3bbb",
+                "song_paused": true,
+                "num_sec_played": 215
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 126,
+                "song_likes": 83318,
+                "song_id": "5f9a460771e3682e46270553",
+                "song_paused": false,
+                "num_sec_played": 218
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 102,
+                "song_likes": 331355,
+                "song_id": "5f9a46074e8af8d32015ae47",
+                "song_paused": true,
+                "num_sec_played": 128
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607540064d5ac635e1a",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 767262,
+          "mixtape_num_songs": 22,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607b860df3137c9a1d4",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        }
+      ],
+      "friend_system": {
+        "friends": [
+          {
+            "friend_id": "5f9a4607dcd000b4125ef533",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "sad",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Brian Wilson",
+                  "song_name": "Buddy Holly",
+                  "song_length": 128,
+                  "song_likes": 8720,
+                  "song_id": "5f9a4607013124fc01a8d4ed",
+                  "song_paused": false,
+                  "num_sec_played": 193
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a460723a24ebdbf031a94"
+                },
+                {
+                  "mixtape_id": "5f9a4607298291938e91f4e2"
+                },
+                {
+                  "mixtape_id": "5f9a4607564dee7613c7058c"
+                }
+              ],
+              "story_id": "5f9a4607870f38f339c95765"
+            }
+          },
+          {
+            "friend_id": "5f9a460796fdd4a49d03ea43",
+            "friend_name": "Bobby",
+            "friend_profile": {
+              "user_state": {
+                "mood": "happy",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Shop Around",
+                  "song_length": 216,
+                  "song_likes": 954499,
+                  "song_id": "5f9a46079ee2912072ccde2f",
+                  "song_paused": false,
+                  "num_sec_played": 158
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a46072777dc0afda82281"
+                },
+                {
+                  "mixtape_id": "5f9a4607e0937e10b3f02dae"
+                },
+                {
+                  "mixtape_id": "5f9a4607a34057efa89a626b"
+                }
+              ],
+              "story_id": "5f9a460727c1e0bb5837dad5"
+            }
+          },
+          {
+            "friend_id": "5f9a460772eb286f4a2af370",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "happy",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Buddy Holly",
+                  "song_length": 163,
+                  "song_likes": 240506,
+                  "song_id": "5f9a46075062fab288508952",
+                  "song_paused": true,
+                  "num_sec_played": 168
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607c1d664f71e51ec9b"
+                },
+                {
+                  "mixtape_id": "5f9a46077156aaed7277adfc"
+                },
+                {
+                  "mixtape_id": "5f9a4607b3b5e1f4e1ea3e0e"
+                }
+              ],
+              "story_id": "5f9a4607ef0299130829455c"
+            }
+          }
+        ],
+        "sent_requests": {
+          "sent_to_id": [
+            "5f9a4607df06a8437ca89f94",
+            "5f9a4607e89c81bc0c15d9e1",
+            "5f9a4607f15162f19c279d69"
+          ],
+          "sent_to_name": [
+            "Billy",
+            "Billy",
+            "Billy"
+          ]
+        },
+        "received_requests": {
+          "received_from_id": [
+            "5f9a46079988742ecb2677ce",
+            "5f9a46075181367ee15ac3ad",
+            "5f9a4607d3cde063c94cf027"
+          ],
+          "received_from_name": [
+            "Jackie",
+            "Billy",
+            "Bobby"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "Account": {
+      "accoount_name": "Klein Dunlap",
+      "account_id": "5f9a46073ad7dd0a96f9df82",
+      "account_pw": 822,
+      "account_profile_pic": "https://source.unsplash.com/user/erondu/140x140",
+      "account_email": "kleindunlap@vortexaco.com",
+      "user_state": {
+        "mood": "sad",
+        "song": {
+          "song_url": "url placeholder",
+          "song_author": "Brian Wilson",
+          "song_name": "Shop Around",
+          "song_length": 116,
+          "song_likes": 359013,
+          "song_id": "5f9a4607a9f3ff424dfc912c",
+          "song_paused": false,
+          "num_sec_played": 207
+        }
+      },
+      "storyies": [
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I dont want to do my homework",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 345937,
+          "story_privacy": "self_only",
+          "story_id": "5f9a460707be91a46b4a4344"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "Today is a nice day",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 877517,
+          "story_privacy": "self_only",
+          "story_id": "5f9a4607d6ba4309a8546e90"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 112421,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a4607295ca7a5a6ccb95c"
+        }
+      ],
+      "mixtapes": [
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Shop Around",
+                "song_length": 120,
+                "song_likes": 15049,
+                "song_id": "5f9a460702880405e4235301",
+                "song_paused": true,
+                "num_sec_played": 233
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 127,
+                "song_likes": 460246,
+                "song_id": "5f9a46073c0615b94f7677fb",
+                "song_paused": true,
+                "num_sec_played": 114
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 184,
+                "song_likes": 466928,
+                "song_id": "5f9a46072ba0bb956ce25017",
+                "song_paused": false,
+                "num_sec_played": 173
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Shop Around",
+                "song_length": 144,
+                "song_likes": 674441,
+                "song_id": "5f9a46078d9af0ba44bdc7ae",
+                "song_paused": true,
+                "num_sec_played": 156
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 220,
+                "song_likes": 439818,
+                "song_id": "5f9a4607397cf505db3c7275",
+                "song_paused": false,
+                "num_sec_played": 180
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607d5f08be84b35dcd1",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 183232,
+          "mixtape_num_songs": 43,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607d6de3cd4fcbb2b28",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 201,
+                "song_likes": 495166,
+                "song_id": "5f9a4607538a755f30bd1f15",
+                "song_paused": true,
+                "num_sec_played": 220
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Shop Around",
+                "song_length": 149,
+                "song_likes": 30864,
+                "song_id": "5f9a4607135376a6486eeb01",
+                "song_paused": false,
+                "num_sec_played": 195
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 138,
+                "song_likes": 381950,
+                "song_id": "5f9a46072208de66b0f570f5",
+                "song_paused": true,
+                "num_sec_played": 171
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 227,
+                "song_likes": 94284,
+                "song_id": "5f9a4607d5fda19b7169650c",
+                "song_paused": false,
+                "num_sec_played": 110
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 231,
+                "song_likes": 41671,
+                "song_id": "5f9a4607b3d28691f8d8dc14",
+                "song_paused": true,
+                "num_sec_played": 93
+              }
+            }
+          ],
+          "current_playing_song": "5f9a460736e13966f20cb9d0",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "self_only",
+          "mixtape_likes": 598676,
+          "mixtape_num_songs": 32,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Bobby",
+          "mixtape_id": "5f9a460758b3e04654bde7d8",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Nice Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 133,
+                "song_likes": 242460,
+                "song_id": "5f9a4607a106e8477f732d5c",
+                "song_paused": true,
+                "num_sec_played": 144
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 176,
+                "song_likes": 949260,
+                "song_id": "5f9a4607f065fb7a497a4d66",
+                "song_paused": true,
+                "num_sec_played": 198
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 131,
+                "song_likes": 402411,
+                "song_id": "5f9a46074e6958c8a482fc57",
+                "song_paused": false,
+                "num_sec_played": 237
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607eb5af0e90e4515be",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "friends_only",
+          "mixtape_likes": 815473,
+          "mixtape_num_songs": 35,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Jackie",
+          "mixtape_id": "5f9a46077435531af0148893",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        }
+      ],
+      "friend_system": {
+        "friends": [
+          {
+            "friend_id": "5f9a4607dff3d09d1c02d20c",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "happy",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Brian Wilson",
+                  "song_name": "Buddy Holly",
+                  "song_length": 201,
+                  "song_likes": 256811,
+                  "song_id": "5f9a4607be9e241646dbdb85",
+                  "song_paused": true,
+                  "num_sec_played": 182
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a46071cc7f5fa36f3389f"
+                },
+                {
+                  "mixtape_id": "5f9a4607ff118afdbe6a754b"
+                },
+                {
+                  "mixtape_id": "5f9a46078cebae707e6f89b1"
+                }
+              ],
+              "story_id": "5f9a46077330a49ccb63edb9"
+            }
+          },
+          {
+            "friend_id": "5f9a4607516b4e8f52d310a7",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "sad",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "The Beatles",
+                  "song_name": "Shop Around",
+                  "song_length": 109,
+                  "song_likes": 677700,
+                  "song_id": "5f9a46078fe48448f995d16c",
+                  "song_paused": true,
+                  "num_sec_played": 184
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607850c79d04efa7a36"
+                },
+                {
+                  "mixtape_id": "5f9a46072e0842256de02018"
+                },
+                {
+                  "mixtape_id": "5f9a4607a9bb49f610b7765a"
+                }
+              ],
+              "story_id": "5f9a4607414245b8465c5982"
+            }
+          },
+          {
+            "friend_id": "5f9a4607acbc667fdd6af681",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "sad",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Miss You",
+                  "song_length": 161,
+                  "song_likes": 796498,
+                  "song_id": "5f9a4607d38996ed736bb895",
+                  "song_paused": true,
+                  "num_sec_played": 110
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607198621c056c05811"
+                },
+                {
+                  "mixtape_id": "5f9a4607e5e355ba045a1c14"
+                },
+                {
+                  "mixtape_id": "5f9a4607080a001354720ff2"
+                }
+              ],
+              "story_id": "5f9a460776fc977b7dc80805"
+            }
+          }
+        ],
+        "sent_requests": {
+          "sent_to_id": [
+            "5f9a460717ee46acea2586c5",
+            "5f9a460729bba43905548f8d",
+            "5f9a46071e70826dd75b4b62"
+          ],
+          "sent_to_name": [
+            "Billy",
+            "Bobby",
+            "Billy"
+          ]
+        },
+        "received_requests": {
+          "received_from_id": [
+            "5f9a46077af48a411ed811c8",
+            "5f9a46078f9b6486767d9dc8",
+            "5f9a4607721457d95eac8400"
+          ],
+          "received_from_name": [
+            "Bobby",
+            "Billy",
+            "Jackie"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "Account": {
+      "accoount_name": "Mia Whitley",
+      "account_id": "5f9a4607c8b225d8dfbfd2c4",
+      "account_pw": 809,
+      "account_profile_pic": "https://source.unsplash.com/user/erondu/140x140",
+      "account_email": "miawhitley@vortexaco.com",
+      "user_state": {
+        "mood": "nothing",
+        "song": {
+          "song_url": "url placeholder",
+          "song_author": "Mark Ronson",
+          "song_name": "Shop Around",
+          "song_length": 139,
+          "song_likes": 141698,
+          "song_id": "5f9a460772bb9ce90cbc422c",
+          "song_paused": true,
+          "num_sec_played": 102
+        }
+      },
+      "storyies": [
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "Today is a nice day",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 396629,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a46079a13b470180e1bf5"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I dont want to do my homework",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 976233,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a46073d51f64963e8e19e"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 247043,
+          "story_privacy": "self_only",
+          "story_id": "5f9a4607ef3cd1ef5a0707c9"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "Today is a nice day",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 193574,
+          "story_privacy": "public",
+          "story_id": "5f9a46078ca6c6a77f378144"
+        }
+      ],
+      "mixtapes": [
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 171,
+                "song_likes": 30764,
+                "song_id": "5f9a46072c6ae867e5d22f77",
+                "song_paused": false,
+                "num_sec_played": 151
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 168,
+                "song_likes": 481494,
+                "song_id": "5f9a4607dba31c2d6d432164",
+                "song_paused": false,
+                "num_sec_played": 240
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 90,
+                "song_likes": 918222,
+                "song_id": "5f9a4607adcc89c477e278af",
+                "song_paused": true,
+                "num_sec_played": 108
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 183,
+                "song_likes": 861498,
+                "song_id": "5f9a46077abab5d23d9df554",
+                "song_paused": true,
+                "num_sec_played": 233
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 203,
+                "song_likes": 359229,
+                "song_id": "5f9a4607be58660ef0739943",
+                "song_paused": false,
+                "num_sec_played": 187
+              }
+            }
+          ],
+          "current_playing_song": "5f9a460782119483957612c6",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "self_only",
+          "mixtape_likes": 968072,
+          "mixtape_num_songs": 11,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a460771c0f34c1d65779e",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Nice Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 119,
+                "song_likes": 516593,
+                "song_id": "5f9a46071d1d32c8afa79f4d",
+                "song_paused": false,
+                "num_sec_played": 185
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 228,
+                "song_likes": 345366,
+                "song_id": "5f9a46077e21ece1561e1f62",
+                "song_paused": false,
+                "num_sec_played": 118
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 166,
+                "song_likes": 113733,
+                "song_id": "5f9a4607e96293bb4265e47e",
+                "song_paused": true,
+                "num_sec_played": 98
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 201,
+                "song_likes": 98987,
+                "song_id": "5f9a4607d784398b167f6fca",
+                "song_paused": false,
+                "num_sec_played": 168
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 97,
+                "song_likes": 207576,
+                "song_id": "5f9a46079cc5a528f2c803cb",
+                "song_paused": true,
+                "num_sec_played": 220
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607c99fe937de6f3b61",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 778713,
+          "mixtape_num_songs": 5,
+          "mixtape_date_created": "Jan 25, 2020",
+          "mixtape_publisher": "Bobby",
+          "mixtape_id": "5f9a46070e0358213ff19916",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 211,
+                "song_likes": 881950,
+                "song_id": "5f9a4607a5099ac24ef1670b",
+                "song_paused": true,
+                "num_sec_played": 189
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 136,
+                "song_likes": 575969,
+                "song_id": "5f9a46075a93c15eb0a04d36",
+                "song_paused": false,
+                "num_sec_played": 90
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 192,
+                "song_likes": 916639,
+                "song_id": "5f9a4607f76c806b68e3a090",
+                "song_paused": true,
+                "num_sec_played": 142
+              }
+            }
+          ],
+          "current_playing_song": "5f9a460766eef7ac568ac21c",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "friends_only",
+          "mixtape_likes": 906516,
+          "mixtape_num_songs": 37,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a460782d7c9d07277cbab",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 143,
+                "song_likes": 666331,
+                "song_id": "5f9a46076f0f1aa650635efd",
+                "song_paused": false,
+                "num_sec_played": 93
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 147,
+                "song_likes": 706191,
+                "song_id": "5f9a460708127278fe2b9ae4",
+                "song_paused": false,
+                "num_sec_played": 131
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 186,
+                "song_likes": 673892,
+                "song_id": "5f9a4607be151abc7b1f3a07",
+                "song_paused": false,
+                "num_sec_played": 145
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 97,
+                "song_likes": 613511,
+                "song_id": "5f9a4607be1eecbea7b9d155",
+                "song_paused": true,
+                "num_sec_played": 227
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 235,
+                "song_likes": 526845,
+                "song_id": "5f9a460701930f959aff5626",
+                "song_paused": true,
+                "num_sec_played": 181
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607a80b156b9eafad98",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 268073,
+          "mixtape_num_songs": 6,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607abc0fe3bcffe79cc",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 135,
+                "song_likes": 259692,
+                "song_id": "5f9a4607b11c2f06a86c576b",
+                "song_paused": false,
+                "num_sec_played": 174
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 188,
+                "song_likes": 922087,
+                "song_id": "5f9a460743c4148685b193f1",
+                "song_paused": true,
+                "num_sec_played": 101
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 173,
+                "song_likes": 463119,
+                "song_id": "5f9a4607ee4b0b37fba96d1f",
+                "song_paused": true,
+                "num_sec_played": 91
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 107,
+                "song_likes": 523830,
+                "song_id": "5f9a4607e3e6b5572f559145",
+                "song_paused": false,
+                "num_sec_played": 118
+              }
+            }
+          ],
+          "current_playing_song": "5f9a46076e6e068c34004806",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 765997,
+          "mixtape_num_songs": 21,
+          "mixtape_date_created": "Aug 10, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607604cf9b2d68a569f",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        }
+      ],
+      "friend_system": {
+        "friends": [
+          {
+            "friend_id": "5f9a4607c4e18683841aa61c",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "sad",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Brian Wilson",
+                  "song_name": "Miss You",
+                  "song_length": 238,
+                  "song_likes": 237359,
+                  "song_id": "5f9a46071a7714111f8fc17e",
+                  "song_paused": false,
+                  "num_sec_played": 171
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a46071043dfc1bd13e03c"
+                },
+                {
+                  "mixtape_id": "5f9a4607905be179e675c39a"
+                },
+                {
+                  "mixtape_id": "5f9a46079fcf07707b08537d"
+                }
+              ],
+              "story_id": "5f9a4607c21c04866eea1dc0"
+            }
+          },
+          {
+            "friend_id": "5f9a46079b98477353ae727e",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "sad",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Shop Around",
+                  "song_length": 111,
+                  "song_likes": 466642,
+                  "song_id": "5f9a46079d27f5cef664e44f",
+                  "song_paused": true,
+                  "num_sec_played": 162
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a460705ca57400eb324cb"
+                },
+                {
+                  "mixtape_id": "5f9a4607cb007edef7905e58"
+                },
+                {
+                  "mixtape_id": "5f9a4607d36944bec1ed1e57"
+                }
+              ],
+              "story_id": "5f9a4607ae900bf9a1735053"
+            }
+          },
+          {
+            "friend_id": "5f9a460783d33cd7548ae760",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "sad",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Miss You",
+                  "song_length": 119,
+                  "song_likes": 985018,
+                  "song_id": "5f9a460746396aa2ae1702ff",
+                  "song_paused": false,
+                  "num_sec_played": 120
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a46071de4326dc060e25d"
+                },
+                {
+                  "mixtape_id": "5f9a4607cc5490f3ee029c67"
+                },
+                {
+                  "mixtape_id": "5f9a4607739db6c3acb80f7b"
+                }
+              ],
+              "story_id": "5f9a46077a7a3cb384673bc8"
+            }
+          }
+        ],
+        "sent_requests": {
+          "sent_to_id": [
+            "5f9a46077eb71707bc809731",
+            "5f9a4607705b73f5dd01aa30",
+            "5f9a4607e467847d8db38246"
+          ],
+          "sent_to_name": [
+            "Bobby",
+            "Bobby",
+            "Jackie"
+          ]
+        },
+        "received_requests": {
+          "received_from_id": [
+            "5f9a4607b4c698cf03c28d54",
+            "5f9a46072738bfffa4c55a9f",
+            "5f9a46075d13034c909d65bc"
+          ],
+          "received_from_name": [
+            "Jackie",
+            "Jackie",
+            "Bobby"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "Account": {
+      "accoount_name": "Mae Lawson",
+      "account_id": "5f9a46073604841fcdceaec4",
+      "account_pw": 947,
+      "account_profile_pic": "https://source.unsplash.com/user/erondu/140x140",
+      "account_email": "maelawson@vortexaco.com",
+      "user_state": {
+        "mood": "sad",
+        "song": {
+          "song_url": "url placeholder",
+          "song_author": "Mark Ronson",
+          "song_name": "Shop Around",
+          "song_length": 149,
+          "song_likes": 192845,
+          "song_id": "5f9a4607c8b501ab99a92c13",
+          "song_paused": false,
+          "num_sec_played": 140
+        }
+      },
+      "storyies": [
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I dont want to do my homework",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 830298,
+          "story_privacy": "public",
+          "story_id": "5f9a4607a8b3c941283c6201"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 346037,
+          "story_privacy": "public",
+          "story_id": "5f9a46079f6aa3a8a6b59ea5"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I dont want to do my homework",
+          "story_date_created": "Dec 1, 2019",
+          "story_time_to_live": 48431,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a4607697a50dd60b4834a"
+        }
+      ],
+      "mixtapes": [
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 206,
+                "song_likes": 208889,
+                "song_id": "5f9a4607ba8836ab9e4da647",
+                "song_paused": true,
+                "num_sec_played": 134
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 172,
+                "song_likes": 592892,
+                "song_id": "5f9a4607596a25a8629b800b",
+                "song_paused": true,
+                "num_sec_played": 107
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 99,
+                "song_likes": 507140,
+                "song_id": "5f9a4607649f2cc26336ebdf",
+                "song_paused": false,
+                "num_sec_played": 183
+              }
+            }
+          ],
+          "current_playing_song": "5f9a460721a29654d4a30103",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 993064,
+          "mixtape_num_songs": 4,
+          "mixtape_date_created": "Aug 10, 2019",
+          "mixtape_publisher": "Jackie",
+          "mixtape_id": "5f9a4607266966226503d1df",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 203,
+                "song_likes": 299698,
+                "song_id": "5f9a4607b3529acbdad9696d",
+                "song_paused": true,
+                "num_sec_played": 206
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 147,
+                "song_likes": 169110,
+                "song_id": "5f9a4607db23f038cda80dc7",
+                "song_paused": true,
+                "num_sec_played": 168
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 157,
+                "song_likes": 79087,
+                "song_id": "5f9a4607e9f9df19d7523efb",
+                "song_paused": true,
+                "num_sec_played": 203
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 100,
+                "song_likes": 954823,
+                "song_id": "5f9a4607930c6ddd1ab82bf0",
+                "song_paused": false,
+                "num_sec_played": 135
+              }
+            }
+          ],
+          "current_playing_song": "5f9a46071f26c3fbfa3cf45c",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "self_only",
+          "mixtape_likes": 308818,
+          "mixtape_num_songs": 14,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607b55cb5b475a899bd",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 229,
+                "song_likes": 476201,
+                "song_id": "5f9a46076737fa99a030dd14",
+                "song_paused": true,
+                "num_sec_played": 138
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 228,
+                "song_likes": 341037,
+                "song_id": "5f9a4607a18ce857979eb229",
+                "song_paused": false,
+                "num_sec_played": 162
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 171,
+                "song_likes": 527442,
+                "song_id": "5f9a4607844f4937f020fb85",
+                "song_paused": false,
+                "num_sec_played": 169
+              }
+            }
+          ],
+          "current_playing_song": "5f9a46079f2434ec17a58b24",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 536882,
+          "mixtape_num_songs": 22,
+          "mixtape_date_created": "Aug 10, 2019",
+          "mixtape_publisher": "Bobby",
+          "mixtape_id": "5f9a4607c91e2ae5ad515076",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 171,
+                "song_likes": 851462,
+                "song_id": "5f9a4607dbd76842b4a03176",
+                "song_paused": true,
+                "num_sec_played": 126
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 209,
+                "song_likes": 676246,
+                "song_id": "5f9a46077c89ca7dd7ff601c",
+                "song_paused": true,
+                "num_sec_played": 240
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 104,
+                "song_likes": 497018,
+                "song_id": "5f9a4607f9cfdc88ff2cd820",
+                "song_paused": false,
+                "num_sec_played": 164
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607e1f52d2ba63b1a1c",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "friends_only",
+          "mixtape_likes": 741807,
+          "mixtape_num_songs": 26,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607439c2dc6a15c9031",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        }
+      ],
+      "friend_system": {
+        "friends": [
+          {
+            "friend_id": "5f9a46075c02233dcec39439",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "nothing",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Brian Wilson",
+                  "song_name": "Miss You",
+                  "song_length": 235,
+                  "song_likes": 349081,
+                  "song_id": "5f9a4607ba3929926be70a9d",
+                  "song_paused": true,
+                  "num_sec_played": 103
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607a087b1c05de9c0f3"
+                },
+                {
+                  "mixtape_id": "5f9a4607f3bc525efcc6ae0d"
+                },
+                {
+                  "mixtape_id": "5f9a4607e34ec6fbe1833fc4"
+                }
+              ],
+              "story_id": "5f9a4607fbe80c9a3c8a43ba"
+            }
+          },
+          {
+            "friend_id": "5f9a4607cf54cae0b79a90e5",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "happy",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Buddy Holly",
+                  "song_length": 161,
+                  "song_likes": 58138,
+                  "song_id": "5f9a4607bf31730c95228843",
+                  "song_paused": true,
+                  "num_sec_played": 98
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a460780a66b257e1471ce"
+                },
+                {
+                  "mixtape_id": "5f9a4607bd4a56944b7bca35"
+                },
+                {
+                  "mixtape_id": "5f9a46070ba81a3809e5124c"
+                }
+              ],
+              "story_id": "5f9a46074428c155479525c4"
+            }
+          },
+          {
+            "friend_id": "5f9a4607d259aa1c5eb4101d",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "nothing",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Miss You",
+                  "song_length": 160,
+                  "song_likes": 864705,
+                  "song_id": "5f9a460797a1630a146639b6",
+                  "song_paused": true,
+                  "num_sec_played": 151
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607625f6b5456212cbd"
+                },
+                {
+                  "mixtape_id": "5f9a460743ded51fb2bff2d5"
+                },
+                {
+                  "mixtape_id": "5f9a460706908e6541c4d4c0"
+                }
+              ],
+              "story_id": "5f9a46078c94e15b4475893a"
+            }
+          }
+        ],
+        "sent_requests": {
+          "sent_to_id": [
+            "5f9a4607eeef5142bb8e387f",
+            "5f9a46079474f14bc4017e32",
+            "5f9a4607c87eb09ac887d00d"
+          ],
+          "sent_to_name": [
+            "Jackie",
+            "Billy",
+            "Jackie"
+          ]
+        },
+        "received_requests": {
+          "received_from_id": [
+            "5f9a460713077727f32190dd",
+            "5f9a4607999c31ce58b85fb3",
+            "5f9a4607d5855e7b8ecb7e64"
+          ],
+          "received_from_name": [
+            "Billy",
+            "Jackie",
+            "Bobby"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "Account": {
+      "accoount_name": "Duffy Rush",
+      "account_id": "5f9a46075bc92e56ae233bf2",
+      "account_pw": 524,
+      "account_profile_pic": "https://source.unsplash.com/user/erondu/140x140",
+      "account_email": "duffyrush@vortexaco.com",
+      "user_state": {
+        "mood": "sad",
+        "song": {
+          "song_url": "url placeholder",
+          "song_author": "Mark Ronson",
+          "song_name": "Shop Around",
+          "song_length": 180,
+          "song_likes": 866181,
+          "song_id": "5f9a4607a54f70561cd23425",
+          "song_paused": true,
+          "num_sec_played": 96
+        }
+      },
+      "storyies": [
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 126692,
+          "story_privacy": "public",
+          "story_id": "5f9a460782edb6ddf0173486"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I dont want to do my homework",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 193563,
+          "story_privacy": "self_only",
+          "story_id": "5f9a460790d759bbe4593e16"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Dec 1, 2019",
+          "story_time_to_live": 508646,
+          "story_privacy": "self_only",
+          "story_id": "5f9a4607619591c6aab22fe0"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 992062,
+          "story_privacy": "public",
+          "story_id": "5f9a46070c42665e4f96be69"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "Today is a nice day",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 175409,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a4607d64553d790b0a0e4"
+        }
+      ],
+      "mixtapes": [
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 208,
+                "song_likes": 97920,
+                "song_id": "5f9a4607d232c6ad6f3d0c24",
+                "song_paused": false,
+                "num_sec_played": 238
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 159,
+                "song_likes": 94017,
+                "song_id": "5f9a460752042aba6605ec61",
+                "song_paused": false,
+                "num_sec_played": 201
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 202,
+                "song_likes": 485018,
+                "song_id": "5f9a4607c338a8c25b2d9cc1",
+                "song_paused": true,
+                "num_sec_played": 94
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 142,
+                "song_likes": 54777,
+                "song_id": "5f9a4607371d69bd674fcfe0",
+                "song_paused": true,
+                "num_sec_played": 203
+              }
+            }
+          ],
+          "current_playing_song": "5f9a46076781fda157ff047a",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "self_only",
+          "mixtape_likes": 62053,
+          "mixtape_num_songs": 40,
+          "mixtape_date_created": "Jan 25, 2020",
+          "mixtape_publisher": "Jackie",
+          "mixtape_id": "5f9a4607d21ca293fbc0ceb3",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 181,
+                "song_likes": 723275,
+                "song_id": "5f9a4607106760c3ebc99e9e",
+                "song_paused": false,
+                "num_sec_played": 185
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 137,
+                "song_likes": 874275,
+                "song_id": "5f9a460730cbe44c9897db9e",
+                "song_paused": false,
+                "num_sec_played": 102
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 116,
+                "song_likes": 708880,
+                "song_id": "5f9a460747f8b23f20d22098",
+                "song_paused": false,
+                "num_sec_played": 122
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607978c4115eb60ecc7",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 954070,
+          "mixtape_num_songs": 24,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a460721bb21a1a262b155",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 127,
+                "song_likes": 870350,
+                "song_id": "5f9a46079a4fa94c4d0f2925",
+                "song_paused": true,
+                "num_sec_played": 145
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Shop Around",
+                "song_length": 210,
+                "song_likes": 999049,
+                "song_id": "5f9a4607b31eeaad8d8772c5",
+                "song_paused": false,
+                "num_sec_played": 127
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 124,
+                "song_likes": 871557,
+                "song_id": "5f9a46071309edaa01e4a50c",
+                "song_paused": false,
+                "num_sec_played": 214
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Miss You",
+                "song_length": 239,
+                "song_likes": 808229,
+                "song_id": "5f9a460799bcef5055170812",
+                "song_paused": false,
+                "num_sec_played": 194
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 144,
+                "song_likes": 277973,
+                "song_id": "5f9a46071fe8571360cddb98",
+                "song_paused": false,
+                "num_sec_played": 193
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607405a4cea28b5945c",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 102641,
+          "mixtape_num_songs": 22,
+          "mixtape_date_created": "Jan 25, 2020",
+          "mixtape_publisher": "Jackie",
+          "mixtape_id": "5f9a46079b1257052d911ee5",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 209,
+                "song_likes": 755756,
+                "song_id": "5f9a4607b229b3f48e6e762a",
+                "song_paused": false,
+                "num_sec_played": 104
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 140,
+                "song_likes": 777875,
+                "song_id": "5f9a460721093475c7845be8",
+                "song_paused": true,
+                "num_sec_played": 130
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Shop Around",
+                "song_length": 171,
+                "song_likes": 744984,
+                "song_id": "5f9a4607dca8c1f1848f4f78",
+                "song_paused": true,
+                "num_sec_played": 114
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 116,
+                "song_likes": 489664,
+                "song_id": "5f9a4607ec440d8a508d34e3",
+                "song_paused": false,
+                "num_sec_played": 90
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607c4f8e64213ae5f8e",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "friends_only",
+          "mixtape_likes": 361804,
+          "mixtape_num_songs": 34,
+          "mixtape_date_created": "Aug 10, 2019",
+          "mixtape_publisher": "Jackie",
+          "mixtape_id": "5f9a460704ba0311dd3c9dff",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 206,
+                "song_likes": 634960,
+                "song_id": "5f9a46071b7ebefeb23197f5",
+                "song_paused": false,
+                "num_sec_played": 188
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 235,
+                "song_likes": 240021,
+                "song_id": "5f9a4607c91b9c8439061ba7",
+                "song_paused": true,
+                "num_sec_played": 212
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 236,
+                "song_likes": 694674,
+                "song_id": "5f9a4607938369ab0fe712ff",
+                "song_paused": true,
+                "num_sec_played": 164
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 147,
+                "song_likes": 126020,
+                "song_id": "5f9a4607c35133ef70219d13",
+                "song_paused": false,
+                "num_sec_played": 232
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 98,
+                "song_likes": 753573,
+                "song_id": "5f9a4607389053ff6654a97b",
+                "song_paused": true,
+                "num_sec_played": 117
+              }
+            }
+          ],
+          "current_playing_song": "5f9a46079c1761ed090dba50",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "friends_only",
+          "mixtape_likes": 455448,
+          "mixtape_num_songs": 23,
+          "mixtape_date_created": "Dec 1, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607cadc5d9514157594",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        }
+      ],
+      "friend_system": {
+        "friends": [
+          {
+            "friend_id": "5f9a4607d0aff4eaefe48c39",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "happy",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Brian Wilson",
+                  "song_name": "Buddy Holly",
+                  "song_length": 232,
+                  "song_likes": 38060,
+                  "song_id": "5f9a4607596fcff3ba684583",
+                  "song_paused": false,
+                  "num_sec_played": 100
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a46077c33cfd29aa19b80"
+                },
+                {
+                  "mixtape_id": "5f9a4607054b052189636abc"
+                },
+                {
+                  "mixtape_id": "5f9a4607bb60e85eb2d3f61b"
+                }
+              ],
+              "story_id": "5f9a460778f018e4b3e679f2"
+            }
+          },
+          {
+            "friend_id": "5f9a4607369b814f72a07e7c",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "nothing",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "The Beatles",
+                  "song_name": "Shop Around",
+                  "song_length": 153,
+                  "song_likes": 202158,
+                  "song_id": "5f9a4607a149f479b8d33024",
+                  "song_paused": false,
+                  "num_sec_played": 197
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607207db6fec7a79d6e"
+                },
+                {
+                  "mixtape_id": "5f9a460754355d9ebdeab016"
+                },
+                {
+                  "mixtape_id": "5f9a4607abd6cdf6741dc633"
+                }
+              ],
+              "story_id": "5f9a4607eb6ae55f6b09df29"
+            }
+          },
+          {
+            "friend_id": "5f9a4607c5a2be6294a59704",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "happy",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "Mark Ronson",
+                  "song_name": "Miss You",
+                  "song_length": 93,
+                  "song_likes": 119344,
+                  "song_id": "5f9a4607261d87f4a7571ad9",
+                  "song_paused": true,
+                  "num_sec_played": 153
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607c0815c3223db834f"
+                },
+                {
+                  "mixtape_id": "5f9a4607f7f6062fa94cecb9"
+                },
+                {
+                  "mixtape_id": "5f9a4607e3d2d3da1730ed81"
+                }
+              ],
+              "story_id": "5f9a46071d95b40598807e51"
+            }
+          }
+        ],
+        "sent_requests": {
+          "sent_to_id": [
+            "5f9a4607d4b82f0408b5725c",
+            "5f9a46076e78975550c9d0a4",
+            "5f9a46078b16205da75bdb46"
+          ],
+          "sent_to_name": [
+            "Jackie",
+            "Jackie",
+            "Bobby"
+          ]
+        },
+        "received_requests": {
+          "received_from_id": [
+            "5f9a4607c58d6dcf66ddae91",
+            "5f9a460779099ba1562fe221",
+            "5f9a46077a068c879ec2ad43"
+          ],
+          "received_from_name": [
+            "Billy",
+            "Billy",
+            "Billy"
+          ]
+        }
+      }
+    }
+  },
+  {
+    "Account": {
+      "accoount_name": "Shanna Meadows",
+      "account_id": "5f9a4607eb9b5679506b71c5",
+      "account_pw": 355,
+      "account_profile_pic": "https://source.unsplash.com/user/erondu/140x140",
+      "account_email": "shannameadows@vortexaco.com",
+      "user_state": {
+        "mood": "happy",
+        "song": {
+          "song_url": "url placeholder",
+          "song_author": "Mark Ronson",
+          "song_name": "Miss You",
+          "song_length": 231,
+          "song_likes": 28098,
+          "song_id": "5f9a46071c6470f6764f9a0e",
+          "song_paused": false,
+          "num_sec_played": 105
+        }
+      },
+      "storyies": [
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "I like to eat",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 647258,
+          "story_privacy": "self_only",
+          "story_id": "5f9a4607e1ae0cdc792bf799"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "Today is a nice day",
+          "story_date_created": "Aug 10, 2019",
+          "story_time_to_live": 933517,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a4607e91a3e87bcf9c5c4"
+        },
+        {
+          "story_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "story_message": "Today is a nice day",
+          "story_date_created": "Jan 25, 2020",
+          "story_time_to_live": 48324,
+          "story_privacy": "friends_only",
+          "story_id": "5f9a4607629c5b7d6b2f1254"
+        }
+      ],
+      "mixtapes": [
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Shop Around",
+                "song_length": 124,
+                "song_likes": 346084,
+                "song_id": "5f9a4607bd02302534887c5d",
+                "song_paused": true,
+                "num_sec_played": 237
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 131,
+                "song_likes": 969193,
+                "song_id": "5f9a4607afc8bd7f632d1d9a",
+                "song_paused": false,
+                "num_sec_played": 188
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Buddy Holly",
+                "song_length": 119,
+                "song_likes": 771634,
+                "song_id": "5f9a46071c6652a07b247bae",
+                "song_paused": true,
+                "num_sec_played": 176
+              }
+            }
+          ],
+          "current_playing_song": "5f9a46074217e26ef965d44b",
+          "mixtape_is_playing": false,
+          "mixtape_privacy": "self_only",
+          "mixtape_likes": 861827,
+          "mixtape_num_songs": 30,
+          "mixtape_date_created": "Jan 25, 2020",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607a4d14c7f8d287255",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "A Random Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 92,
+                "song_likes": 323338,
+                "song_id": "5f9a460791e8a08a508a32b6",
+                "song_paused": true,
+                "num_sec_played": 224
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Shop Around",
+                "song_length": 188,
+                "song_likes": 965799,
+                "song_id": "5f9a46079d8f4db71b071999",
+                "song_paused": true,
+                "num_sec_played": 132
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Miss You",
+                "song_length": 191,
+                "song_likes": 442088,
+                "song_id": "5f9a460718a7ddc53fcc6883",
+                "song_paused": false,
+                "num_sec_played": 239
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607be2fc5f74ff3c48f",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "public",
+          "mixtape_likes": 182885,
+          "mixtape_num_songs": 2,
+          "mixtape_date_created": "Jan 25, 2020",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a4607f3a84283c715c924",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        },
+        {
+          "songs": [
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Mark Ronson",
+                "song_name": "Shop Around",
+                "song_length": 181,
+                "song_likes": 333111,
+                "song_id": "5f9a4607f7aae5b416d9c405",
+                "song_paused": false,
+                "num_sec_played": 121
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "Brian Wilson",
+                "song_name": "Buddy Holly",
+                "song_length": 113,
+                "song_likes": 390782,
+                "song_id": "5f9a460770bd37e936658268",
+                "song_paused": true,
+                "num_sec_played": 116
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Miss You",
+                "song_length": 172,
+                "song_likes": 289377,
+                "song_id": "5f9a460749e086353ac59861",
+                "song_paused": false,
+                "num_sec_played": 127
+              }
+            },
+            {
+              "song": {
+                "song_url": "url placeholder",
+                "song_author": "The Beatles",
+                "song_name": "Buddy Holly",
+                "song_length": 223,
+                "song_likes": 70380,
+                "song_id": "5f9a4607e7bef78bb3866cd0",
+                "song_paused": false,
+                "num_sec_played": 188
+              }
+            }
+          ],
+          "current_playing_song": "5f9a4607c4953113c34bde7d",
+          "mixtape_is_playing": true,
+          "mixtape_privacy": "friends_only",
+          "mixtape_likes": 94589,
+          "mixtape_num_songs": 12,
+          "mixtape_date_created": "Aug 10, 2019",
+          "mixtape_publisher": "Billy",
+          "mixtape_id": "5f9a46077805d43f6f327b1f",
+          "mixtape_photo": "https://source.unsplash.com/user/erondu/140x140",
+          "mixtape_name": "Bobbys Mixtape"
+        }
+      ],
+      "friend_system": {
+        "friends": [
+          {
+            "friend_id": "5f9a4607504f0b28e28e696d",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "sad",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "The Beatles",
+                  "song_name": "Miss You",
+                  "song_length": 151,
+                  "song_likes": 15450,
+                  "song_id": "5f9a4607d09d3129a2c7c5b6",
+                  "song_paused": false,
+                  "num_sec_played": 228
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a4607ae26f777d5e66415"
+                },
+                {
+                  "mixtape_id": "5f9a4607d98ff39a78c2ad1f"
+                },
+                {
+                  "mixtape_id": "5f9a4607bb28000f25969557"
+                }
+              ],
+              "story_id": "5f9a460706653f6fa1fb857b"
+            }
+          },
+          {
+            "friend_id": "5f9a4607dc9fe851acc665c1",
+            "friend_name": "Billy",
+            "friend_profile": {
+              "user_state": {
+                "mood": "happy",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "The Beatles",
+                  "song_name": "Shop Around",
+                  "song_length": 215,
+                  "song_likes": 622070,
+                  "song_id": "5f9a46078618a2933a8f2baa",
+                  "song_paused": false,
+                  "num_sec_played": 153
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a46071d7349bf45053d01"
+                },
+                {
+                  "mixtape_id": "5f9a460778b6cc8507d746b4"
+                },
+                {
+                  "mixtape_id": "5f9a4607905ec695c3094309"
+                }
+              ],
+              "story_id": "5f9a46074b2c279af4d12175"
+            }
+          },
+          {
+            "friend_id": "5f9a4607037c1aef12bd0183",
+            "friend_name": "Jackie",
+            "friend_profile": {
+              "user_state": {
+                "mood": "nothing",
+                "song": {
+                  "song_url": "url placeholder",
+                  "song_author": "The Beatles",
+                  "song_name": "Buddy Holly",
+                  "song_length": 220,
+                  "song_likes": 426466,
+                  "song_id": "5f9a4607e824da5b8b984bfb",
+                  "song_paused": true,
+                  "num_sec_played": 197
+                }
+              },
+              "mixtapes": [
+                {
+                  "mixtape_id": "5f9a460762ff55985f9ba18a"
+                },
+                {
+                  "mixtape_id": "5f9a4607d125a46afd3e1828"
+                },
+                {
+                  "mixtape_id": "5f9a46071b462995b98859e1"
+                }
+              ],
+              "story_id": "5f9a4607bc55196cd01f4788"
+            }
+          }
+        ],
+        "sent_requests": {
+          "sent_to_id": [
+            "5f9a4607253311cdcd9343e9",
+            "5f9a4607c4aa4a81b18f1b8d",
+            "5f9a4607a6c3fb8ac400992c"
+          ],
+          "sent_to_name": [
+            "Bobby",
+            "Jackie",
+            "Bobby"
+          ]
+        },
+        "received_requests": {
+          "received_from_id": [
+            "5f9a46075830b1021696ae1f",
+            "5f9a460767e2b617845bdf40",
+            "5f9a46079a0cfe0af490bc22"
+          ],
+          "received_from_name": [
+            "Jackie",
+            "Bobby",
+            "Bobby"
+          ]
+        }
+      }
+    }
+  }
+]
